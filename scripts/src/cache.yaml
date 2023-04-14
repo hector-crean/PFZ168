@@ -1,0 +1,3505 @@
+"8790235":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:8790235
+  title: "The evolution of psychiatric symptoms in Alzheimer's disease: a natural
+    history study"
+  author:
+    - family: Jost
+      given: B C
+    - family: Grossberg
+      given: G T
+  container-title-short: J Am Geriatr Soc
+  container-title: Journal of the American Geriatrics Society
+  publisher-place: United States
+  ISSN: 0002-8614
+  issued:
+    date-parts:
+      - - 1996
+        - 9
+  page: 1078-81
+  volume: "44"
+  PMID: "8790235"
+  DOI: 10.1111/j.1532-5415.1996.tb02942.x
+  type: article-journal
+"9153155":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:9153155
+  title: "The Neuropsychiatric Inventory: assessing psychopathology in dementia
+    patients"
+  author:
+    - family: Cummings
+      given: J L
+  container-title-short: Neurology
+  container-title: Neurology
+  publisher-place: United States
+  ISSN: 0028-3878
+  issued:
+    date-parts:
+      - - 1997
+        - 5
+  page: S10-6
+  volume: "48"
+  PMID: "9153155"
+  DOI: 10.1212/wnl.48.5_suppl_6.10s
+  type: article-journal
+"11154018":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:11154018
+  title: The pathophysiology of agitation
+  author:
+    - family: Lindenmayer
+      given: J P
+  container-title-short: J Clin Psychiatry
+  container-title: The Journal of clinical psychiatry
+  publisher-place: United States
+  ISSN: 0160-6689
+  issued:
+    date-parts:
+      - - 2000
+  page: 5-10
+  volume: 61 Suppl 14
+  PMID: "11154018"
+  DOI: ""
+  type: article-journal
+"11216203":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:11216203
+  title: Causes of Alzheimer's disease
+  author:
+    - family: Munoz
+      given: D G
+    - family: Feldman
+      given: H
+  container-title-short: CMAJ
+  container-title: "CMAJ : Canadian Medical Association journal = journal de
+    l'Association medicale canadienne"
+  publisher-place: Canada
+  ISSN: 0820-3946
+  issued:
+    date-parts:
+      - - 2000
+        - 1
+        - 11
+  page: 65-72
+  volume: "162"
+  PMID: "11216203"
+  PMCID: PMC1232234
+  DOI: ""
+  type: article-journal
+"11261510":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:11261510
+  title: Orbitofrontal and anterior cingulate cortex neurofibrillary tangle burden
+    is associated with agitation in Alzheimer disease
+  author:
+    - family: Tekin
+      given: S
+    - family: Mega
+      given: M S
+    - family: Masterman
+      given: D M
+    - family: Chow
+      given: T
+    - family: Garakian
+      given: J
+    - family: Vinters
+      given: H V
+    - family: Cummings
+      given: J L
+  container-title-short: Ann Neurol
+  container-title: Annals of neurology
+  publisher-place: United States
+  ISSN: 0364-5134
+  issued:
+    date-parts:
+      - - 2001
+        - 3
+  page: 355-61
+  volume: "49"
+  PMID: "11261510"
+  DOI: ""
+  type: article-journal
+"12243634":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:12243634
+  title: "Prevalence of neuropsychiatric symptoms in dementia and mild cognitive
+    impairment: results from the cardiovascular health study"
+  author:
+    - family: Lyketsos
+      given: Constantine G
+    - family: Lopez
+      given: Oscar
+    - family: Jones
+      given: Beverly
+    - family: Fitzpatrick
+      given: Annette L
+    - family: Breitner
+      given: John
+    - family: DeKosky
+      given: Steven
+  container-title-short: JAMA
+  container-title: JAMA
+  publisher-place: United States
+  ISSN: 0098-7484
+  issued:
+    date-parts:
+      - - 2002
+        - 9
+        - 25
+  page: 1475-83
+  volume: "288"
+  PMID: "12243634"
+  DOI: 10.1001/jama.288.12.1475
+  type: article-journal
+"16286443":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:16286443
+  title: Factor analysis of the Cohen-Mansfield Agitation Inventory in three large
+    samples of nursing home patients with dementia and behavioral disturbance
+  author:
+    - family: Rabinowitz
+      given: Jonathan
+    - family: Davidson
+      given: Michael
+    - family: De Deyn
+      given: Peter Paul
+    - family: Katz
+      given: Ira
+    - family: Brodaty
+      given: Henry
+    - family: Cohen-Mansfield
+      given: Jiska
+  container-title-short: Am J Geriatr Psychiatry
+  container-title: "The American journal of geriatric psychiatry : official
+    journal of the American Association for Geriatric Psychiatry"
+  publisher-place: England
+  ISSN: 1064-7481
+  issued:
+    date-parts:
+      - - 2005
+        - 11
+  page: 991-8
+  volume: "13"
+  PMID: "16286443"
+  DOI: 10.1176/appi.ajgp.13.11.991
+  type: article-journal
+"16421113":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:16421113
+  title: "Quality of life in dementia: more than just cognition. An analysis of
+    associations with quality of life in dementia"
+  author:
+    - family: Banerjee
+      given: S
+    - family: Smith
+      given: S C
+    - family: Lamping
+      given: D L
+    - family: Harwood
+      given: R H
+    - family: Foley
+      given: B
+    - family: Smith
+      given: P
+    - family: Murray
+      given: J
+    - family: Prince
+      given: M
+    - family: Levin
+      given: E
+    - family: Mann
+      given: A
+    - family: Knapp
+      given: M
+  container-title-short: J Neurol Neurosurg Psychiatry
+  container-title: Journal of neurology, neurosurgery, and psychiatry
+  publisher-place: England
+  ISSN: 0022-3050
+  issued:
+    date-parts:
+      - - 2006
+        - 2
+  page: 146-8
+  volume: "77"
+  PMID: "16421113"
+  PMCID: PMC2077592
+  DOI: 10.1136/jnnp.2005.072983
+  type: article-journal
+"16505124":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:16505124
+  title: "Efficacy and adverse effects of atypical antipsychotics for dementia:
+    meta-analysis of randomized, placebo-controlled trials"
+  author:
+    - family: Schneider
+      given: Lon S
+    - family: Dagerman
+      given: Karen
+    - family: Insel
+      given: Philip S
+  container-title-short: Am J Geriatr Psychiatry
+  container-title: "The American journal of geriatric psychiatry : official
+    journal of the American Association for Geriatric Psychiatry"
+  publisher-place: England
+  ISSN: 1064-7481
+  issued:
+    date-parts:
+      - - 2006
+        - 3
+  page: 191-210
+  volume: "14"
+  PMID: "16505124"
+  DOI: 10.1097/01.JGP.0000200589.01396.6d
+  type: article-journal
+"17336945":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:17336945
+  title: A functional magnetic resonance imaging study of amygdala responses to
+    human faces in aging and mild Alzheimer's disease
+  author:
+    - family: Wright
+      given: Christopher I
+    - family: Dickerson
+      given: Bradford C
+    - family: Feczko
+      given: Eric
+    - family: Negeira
+      given: Alyson
+    - family: Williams
+      given: Danielle
+  container-title-short: Biol Psychiatry
+  container-title: Biological psychiatry
+  publisher-place: United States
+  ISSN: 0006-3223
+  issued:
+    date-parts:
+      - - 2007
+        - 12
+        - 15
+  page: 1388-95
+  volume: "62"
+  PMID: "17336945"
+  DOI: 10.1016/j.biopsych.2006.11.013
+  type: article-journal
+"18071039":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:18071039
+  title: Disruptive behavior as a predictor in Alzheimer disease
+  author:
+    - family: Scarmeas
+      given: Nikolaos
+    - family: Brandt
+      given: Jason
+    - family: Blacker
+      given: Deborah
+    - family: Albert
+      given: Marilyn
+    - family: Hadjigeorgiou
+      given: Georgios
+    - family: Dubois
+      given: Bruno
+    - family: Devanand
+      given: Davangere
+    - family: Honig
+      given: Lawrence
+    - family: Stern
+      given: Yaakov
+  container-title-short: Arch Neurol
+  container-title: Archives of neurology
+  publisher-place: United States
+  ISSN: 0003-9942
+  issued:
+    date-parts:
+      - - 2007
+        - 12
+  page: 1755-61
+  volume: "64"
+  PMID: "18071039"
+  PMCID: PMC2690610
+  DOI: 10.1001/archneur.64.12.1755
+  type: article-journal
+"18294023":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:18294023
+  title: "Memantine for agitation/aggression and psychosis in moderately severe to
+    severe Alzheimer's disease: a pooled analysis of 3 studies"
+  author:
+    - family: Wilcock
+      given: Gordon K
+    - family: Ballard
+      given: Clive G
+    - family: Cooper
+      given: James A
+    - family: Loft
+      given: Henrik
+  container-title-short: J Clin Psychiatry
+  container-title: The Journal of clinical psychiatry
+  publisher-place: United States
+  ISSN: 0160-6689
+  issued:
+    date-parts:
+      - - 2008
+        - 3
+  page: 341-8
+  volume: "69"
+  PMID: "18294023"
+  DOI: 10.4088/jcp.v69n0302
+  type: article-journal
+"18340692":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:18340692
+  title: American Psychiatric Association practice guideline for the treatment of
+    patients with Alzheimer's disease and other dementias. Second edition
+  author:
+    - family: APA Work Group on Alzheimer's Disease and other Dementias
+    - family: Rabins
+      given: Peter V
+    - family: Blacker
+      given: Deborah
+    - family: Rovner
+      given: Barry W
+    - family: Rummans
+      given: Teresa
+    - family: Schneider
+      given: Lon S
+    - family: Tariot
+      given: Pierre N
+    - family: Blass
+      given: David M
+    - family: Steering Committee on Practice Guidelines
+    - family: McIntyre
+      given: John S
+    - family: Charles
+      given: Sara C
+    - family: Anzia
+      given: Daniel J
+    - family: Cook
+      given: Ian A
+    - family: Finnerty
+      given: Molly T
+    - family: Johnson
+      given: Bradley R
+    - family: Nininger
+      given: James E
+    - family: Schneidman
+      given: Barbara
+    - family: Summergrad
+      given: Paul
+    - family: Woods
+      given: Sherwyn M
+    - family: Berger
+      given: Joseph
+    - family: Cross
+      given: C Deborah
+    - family: Brandt
+      given: Harry A
+    - family: Margolis
+      given: Philip M
+    - family: Shemo
+      given: John P D
+    - family: Blinder
+      given: Barton J
+    - family: Duncan
+      given: David L
+    - family: Barnovitz
+      given: Mary Ann
+    - family: Carino
+      given: Anthony J
+    - family: Freyberg
+      given: Zachary Z
+    - family: Gray
+      given: Sheila Hafter
+    - family: Tonnu
+      given: Tina
+    - family: Kunkle
+      given: Robert
+    - family: Albert
+      given: Amy B
+    - family: Craig
+      given: Thomas J
+    - family: Regier
+      given: Darrel A
+    - family: Fochtmann
+      given: Laura J
+  container-title-short: Am J Psychiatry
+  container-title: The American journal of psychiatry
+  publisher-place: United States
+  ISSN: 0002-953X
+  issued:
+    date-parts:
+      - - 2007
+        - 12
+  page: 5-56
+  volume: "164"
+  PMID: "18340692"
+  DOI: ""
+  type: article-journal
+"18394647":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:18394647
+  title: "Agitated behavior in persons with dementia: the relationship between
+    type of behavior, its frequency, and its disruptiveness"
+  author:
+    - family: Cohen-Mansfield
+      given: Jiska
+  container-title-short: J Psychiatr Res
+  container-title: Journal of psychiatric research
+  publisher-place: England
+  ISSN: 0022-3956
+  issued:
+    date-parts:
+      - - 2008
+        - 11
+  page: 64-9
+  volume: "43"
+  PMID: "18394647"
+  PMCID: PMC2643974
+  DOI: 10.1016/j.jpsychires.2008.02.003
+  type: article-journal
+"19112999":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:19112999
+  title: Prevalence and treatment of neuropsychiatric symptoms in advanced dementia
+  author:
+    - family: Kverno
+      given: Karan S
+    - family: Rabins
+      given: Peter V
+    - family: Blass
+      given: David M
+    - family: Hicks
+      given: Kathryn L
+    - family: Black
+      given: Betty S
+  container-title-short: J Gerontol Nurs
+  container-title: Journal of gerontological nursing
+  publisher-place: United States
+  ISSN: 0098-9134
+  issued:
+    date-parts:
+      - - 2008
+        - 12
+  page: 8-15; quiz 16-7
+  volume: "34"
+  PMID: "19112999"
+  PMCID: PMC2828146
+  DOI: 10.3928/00989134-20081201-03
+  type: article-journal
+"19169120":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:19169120
+  title: Predictors of nursing home admission for persons with dementia
+  author:
+    - family: Gaugler
+      given: Joseph E
+    - family: Yu
+      given: Fang
+    - family: Krichbaum
+      given: Kathleen
+    - family: Wyman
+      given: Jean F
+  container-title-short: Med Care
+  container-title: Medical care
+  publisher-place: United States
+  ISSN: 0025-7079
+  issued:
+    date-parts:
+      - - 2009
+        - 2
+  page: 191-8
+  volume: "47"
+  PMID: "19169120"
+  DOI: 10.1097/MLR.0b013e31818457ce
+  type: article-journal
+"19412452":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:19412452
+  title: Neuropsychiatric symptoms as a predictor of caregiver burden in
+    Alzheimer's disease
+  author:
+    - family: Allegri
+      given: Ricardo F
+    - family: Sarasola
+      given: Diego
+    - family: Serrano
+      given: Cecilia M
+    - family: Taragano
+      given: Fernando E
+    - family: Arizaga
+      given: Raúl L
+    - family: Butman
+      given: Judith
+    - family: Loñ
+      given: Leandro
+  container-title-short: Neuropsychiatr Dis Treat
+  container-title: Neuropsychiatric disease and treatment
+  publisher-place: New Zealand
+  ISSN: 1176-6328
+  issued:
+    date-parts:
+      - - 2006
+        - 3
+  page: 105-10
+  volume: "2"
+  PMID: "19412452"
+  PMCID: PMC2671738
+  DOI: ""
+  type: article-journal
+"19585957":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:19585957
+  title: Family caregivers of people with dementia
+  author:
+    - family: Brodaty
+      given: Henry
+    - family: Donkin
+      given: Marika
+  container-title-short: Dialogues Clin Neurosci
+  container-title: Dialogues in clinical neuroscience
+  publisher-place: England
+  ISSN: 1294-8322
+  issued:
+    date-parts:
+      - - 2009
+  page: 217-28
+  volume: "11"
+  PMID: "19585957"
+  PMCID: PMC3181916
+  DOI: 10.31887/DCNS.2009.11.2/hbrodaty
+  type: article-journal
+"20331363":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:20331363
+  title: Emotion, cognition, and mental state representation in amygdala and
+    prefrontal cortex
+  author:
+    - family: Salzman
+      given: C Daniel
+    - family: Fusi
+      given: Stefano
+  container-title-short: Annu Rev Neurosci
+  container-title: Annual review of neuroscience
+  publisher-place: United States
+  ISSN: 0147-006X
+  issued:
+    date-parts:
+      - - 2010
+  page: 173-202
+  volume: "33"
+  PMID: "20331363"
+  PMCID: PMC3108339
+  DOI: 10.1146/annurev.neuro.051508.135256
+  type: article-journal
+"20370668":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:20370668
+  title: The effects of acute tryptophan depletion on brain activation during
+    cognition and emotional processing in healthy volunteers
+  author:
+    - family: Evers
+      given: E A T
+    - family: Sambeth
+      given: A
+    - family: Ramaekers
+      given: J G
+    - family: Riedel
+      given: W J
+    - family: van der Veen
+      given: F M
+  container-title-short: Curr Pharm Des
+  container-title: Current pharmaceutical design
+  publisher-place: United Arab Emirates
+  ISSN: 1381-6128
+  issued:
+    date-parts:
+      - - 2010
+  page: 1998-2011
+  volume: "16"
+  PMID: "20370668"
+  DOI: 10.2174/138161210791293060
+  type: article-journal
+"20526405":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:20526405
+  title: "The clinical global impressions scale: applying a research tool in
+    clinical practice"
+  author:
+    - family: Busner
+      given: Joan
+    - family: Targum
+      given: Steven D
+  container-title-short: Psychiatry (Edgmont)
+  container-title: "Psychiatry (Edgmont (Pa. : Township))"
+  publisher-place: United States
+  ISSN: 1550-5952
+  issued:
+    date-parts:
+      - - 2007
+        - 7
+  page: 28-37
+  volume: "4"
+  PMID: "20526405"
+  PMCID: PMC2880930
+  DOI: ""
+  type: article-journal
+"20808108":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:20808108
+  title: "Caregiver burden in Alzheimer disease: cross-sectional and longitudinal
+    patient correlates"
+  author:
+    - family: Mohamed
+      given: Somaia
+    - family: Rosenheck
+      given: Robert
+    - family: Lyketsos
+      given: Constantine G
+    - family: Schneider
+      given: Lon S
+  container-title-short: Am J Geriatr Psychiatry
+  container-title: "The American journal of geriatric psychiatry : official
+    journal of the American Association for Geriatric Psychiatry"
+  publisher-place: England
+  ISSN: 1064-7481
+  issued:
+    date-parts:
+      - - 2010
+        - 10
+  page: 917-27
+  volume: "18"
+  PMID: "20808108"
+  PMCID: PMC3972419
+  DOI: 10.1097/JGP.0b013e3181d5745d
+  type: article-journal
+"21192239":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:21192239
+  title: "Caregiver burden and neuropsychiatric symptoms in older adults with
+    cognitive impairment: the Aging, Demographics, and Memory Study (ADAMS)"
+  author:
+    - family: Okura
+      given: Toru
+    - family: Langa
+      given: Kenneth M
+  container-title-short: Alzheimer Dis Assoc Disord
+  container-title: Alzheimer disease and associated disorders
+  publisher-place: United States
+  ISSN: 0893-0341
+  issued:
+    date-parts:
+      - - 2011
+  page: 116-21
+  volume: "25"
+  PMID: "21192239"
+  PMCID: PMC3100441
+  DOI: 10.1097/WAD.0b013e318203f208
+  type: article-journal
+"21634073":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:21634073
+  title: A Systematic Evidence Review of Non-pharmacological Interventions for
+    Behavioral Symptoms of Dementia
+  author:
+    - family: O'Neil
+      given: Maya E
+    - family: Freeman
+      given: Michele
+    - family: Christensen
+      given: Vivian
+    - family: Telerant
+      given: Robin
+    - family: Addleman
+      given: Ashlee
+    - family: Kansagara
+      given: Devan
+  container-title-short: ""
+  container-title: ""
+  publisher-place: Washington (DC)
+  ISSN: ""
+  issued:
+    date-parts:
+      - - 2011
+        - 3
+  page: ""
+  volume: ""
+  PMID: "21634073"
+  DOI: ""
+  type: book
+"21889116":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:21889116
+  title: Neuropsychiatric symptoms in Alzheimer's disease
+  author:
+    - family: Lyketsos
+      given: Constantine G
+    - family: Carrillo
+      given: Maria C
+    - family: Ryan
+      given: J Michael
+    - family: Khachaturian
+      given: Ara S
+    - family: Trzepacz
+      given: Paula
+    - family: Amatniek
+      given: Joan
+    - family: Cedarbaum
+      given: Jesse
+    - family: Brashear
+      given: Robert
+    - family: Miller
+      given: David S
+  container-title-short: Alzheimers Dement
+  container-title: "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  publisher-place: United States
+  ISSN: 1552-5260
+  issued:
+    date-parts:
+      - - 2011
+        - 9
+  page: 532-9
+  volume: "7"
+  PMID: "21889116"
+  PMCID: PMC3299979
+  DOI: 10.1016/j.jalz.2011.05.2410
+  type: article-journal
+"22382406":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:22382406
+  title: "Tau phosphorylation in human brain: relationship to behavioral
+    disturbance in dementia"
+  author:
+    - family: Guadagna
+      given: Simone
+    - family: Esiri
+      given: Margaret M
+    - family: Williams
+      given: Robert J
+    - family: Francis
+      given: Paul T
+  container-title-short: Neurobiol Aging
+  container-title: Neurobiology of aging
+  publisher-place: United States
+  ISSN: 0197-4580
+  issued:
+    date-parts:
+      - - 2012
+        - 12
+  page: 2798-806
+  volume: "33"
+  PMID: "22382406"
+  DOI: 10.1016/j.neurobiolaging.2012.01.015
+  type: article-journal
+"22586419":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:22586419
+  title: Behavioral and psychological symptoms of dementia
+  author:
+    - family: Cerejeira
+      given: J
+    - family: Lagarto
+      given: L
+    - family: Mukaetova-Ladinska
+      given: E B
+  container-title-short: Front Neurol
+  container-title: Frontiers in neurology
+  publisher-place: Switzerland
+  ISSN: 1664-2295
+  issued:
+    date-parts:
+      - - 2012
+        - 5
+        - 7
+  page: "73"
+  volume: "3"
+  PMID: "22586419"
+  PMCID: PMC3345875
+  DOI: 10.3389/fneur.2012.00073
+  type: article-journal
+"22697208":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 4
+  id: pmid:22697208
+  title: "Delusions of Korean patients with Alzheimer's disease: study of
+    drug-naïve patients"
+  author:
+    - family: Kwak
+      given: Yong Tae
+    - family: Yang
+      given: YoungSoon
+    - family: Kwak
+      given: Soon-Gu
+    - family: Koo
+      given: Min-Seong
+  container-title-short: Geriatr Gerontol Int
+  container-title: Geriatrics & gerontology international
+  publisher-place: Japan
+  ISSN: 1447-0594
+  issued:
+    date-parts:
+      - - 2013
+        - 4
+  page: 307-13
+  volume: "13"
+  PMID: "22697208"
+  DOI: 10.1111/j.1447-0594.2012.00897.x
+  type: article-journal
+"23253778":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:23253778
+  title: Frontolimbic atrophy is associated with agitation and aggression in mild
+    cognitive impairment and Alzheimer's disease
+  author:
+    - family: Trzepacz
+      given: Paula T
+    - family: Yu
+      given: Peng
+    - family: Bhamidipati
+      given: Phani K
+    - family: Willis
+      given: Brian
+    - family: Forrester
+      given: Tammy
+    - family: Tabas
+      given: Linda
+    - family: Schwarz
+      given: Adam J
+    - family: Saykin
+      given: Andrew J
+    - family: Alzheimer's Disease Neuroimaging Initiative
+  container-title-short: Alzheimers Dement
+  container-title: "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  publisher-place: United States
+  ISSN: 1552-5260
+  issued:
+    date-parts:
+      - - 2013
+        - 10
+  page: S95-S104.e1
+  volume: "9"
+  PMID: "23253778"
+  PMCID: PMC3955297
+  DOI: 10.1016/j.jalz.2012.10.005
+  type: article-journal
+"23379963":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:23379963
+  title: "Revisiting the serotonin-aggression relation in humans: a meta-analysis"
+  author:
+    - family: Duke
+      given: Aaron A
+    - family: Bègue
+      given: Laurent
+    - family: Bell
+      given: Rob
+    - family: Eisenlohr-Moul
+      given: Tory
+  container-title-short: Psychol Bull
+  container-title: Psychological bulletin
+  publisher-place: United States
+  ISSN: 0033-2909
+  issued:
+    date-parts:
+      - - 2013
+        - 9
+  page: 1148-72
+  volume: "139"
+  PMID: "23379963"
+  PMCID: PMC3718863
+  DOI: 10.1037/a0031544
+  type: article-journal
+"23562430":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:23562430
+  title: "Neuropsychiatric symptoms in Alzheimer's disease: past progress and
+    anticipation of the future"
+  author:
+    - family: Geda
+      given: Yonas E
+    - family: Schneider
+      given: Lon S
+    - family: Gitlin
+      given: Laura N
+    - family: Miller
+      given: David S
+    - family: Smith
+      given: Gwenn S
+    - family: Bell
+      given: Joanne
+    - family: Evans
+      given: Jovier
+    - family: Lee
+      given: Michael
+    - family: Porsteinsson
+      given: Anton
+    - family: Lanctôt
+      given: Krista L
+    - family: Rosenberg
+      given: Paul B
+    - family: Sultzer
+      given: David L
+    - family: Francis
+      given: Paul T
+    - family: Brodaty
+      given: Henry
+    - family: Padala
+      given: Prasad P
+    - family: Onyike
+      given: Chiadikaobi U
+    - family: Ortiz
+      given: Luis Agüera
+    - family: Ancoli-Israel
+      given: Sonia
+    - family: Bliwise
+      given: Donald L
+    - family: Martin
+      given: Jennifer L
+    - family: Vitiello
+      given: Michael V
+    - family: Yaffe
+      given: Kristine
+    - family: Zee
+      given: Phyllis C
+    - family: Herrmann
+      given: Nathan
+    - family: Sweet
+      given: Robert A
+    - family: Ballard
+      given: Clive
+    - family: Khin
+      given: Ni A
+    - family: Alfaro
+      given: Cara
+    - family: Murray
+      given: Patrick S
+    - family: Schultz
+      given: Susan
+    - family: Lyketsos
+      given: Constantine G
+    - family: Neuropsychiatric Syndromes Professional Interest Area of ISTAART
+  container-title-short: Alzheimers Dement
+  container-title: "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  publisher-place: United States
+  ISSN: 1552-5260
+  issued:
+    date-parts:
+      - - 2013
+        - 9
+  page: 602-8
+  volume: "9"
+  PMID: "23562430"
+  PMCID: PMC3766403
+  DOI: 10.1016/j.jalz.2012.12.001
+  type: article-journal
+"23963653":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:23963653
+  title: Nurses in distress? An explorative study into the relation between
+    distress and individual neuropsychiatric symptoms of people with dementia in
+    nursing homes
+  author:
+    - family: Zwijsen
+      given: S A
+    - family: Kabboord
+      given: A
+    - family: Eefsting
+      given: J A
+    - family: Hertogh
+      given: C M P M
+    - family: Pot
+      given: A M
+    - family: Gerritsen
+      given: D L
+    - family: Smalbrugge
+      given: M
+  container-title-short: Int J Geriatr Psychiatry
+  container-title: International journal of geriatric psychiatry
+  publisher-place: England
+  ISSN: 0885-6230
+  issued:
+    date-parts:
+      - - 2014
+        - 4
+  page: 384-91
+  volume: "29"
+  PMID: "23963653"
+  DOI: 10.1002/gps.4014
+  type: article-journal
+"24600224":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:24600224
+  title: Neural basis of three dimensions of agitated behaviors in patients with
+    Alzheimer disease
+  author:
+    - family: Banno
+      given: Koichi
+    - family: Nakaaki
+      given: Shutaro
+    - family: Sato
+      given: Junko
+    - family: Torii
+      given: Katsuyoshi
+    - family: Narumoto
+      given: Jin
+    - family: Miyata
+      given: Jun
+    - family: Hirono
+      given: Nobutsugu
+    - family: Furukawa
+      given: Toshi A
+    - family: Mimura
+      given: Masaru
+    - family: Akechi
+      given: Tatsuo
+  container-title-short: Neuropsychiatr Dis Treat
+  container-title: Neuropsychiatric disease and treatment
+  publisher-place: New Zealand
+  ISSN: 1176-6328
+  issued:
+    date-parts:
+      - - 2014
+        - 2
+        - 17
+  page: 339-48
+  volume: "10"
+  PMID: "24600224"
+  PMCID: PMC3933703
+  DOI: 10.2147/NDT.S57522
+  type: article-journal
+"24635665":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:24635665
+  title: "Management of neuropsychiatric symptoms of dementia in clinical
+    settings: recommendations from a multidisciplinary expert panel"
+  author:
+    - family: Kales
+      given: Helen C
+    - family: Gitlin
+      given: Laura N
+    - family: Lyketsos
+      given: Constantine G
+    - family: Detroit Expert Panel on Assessment and Management of Neuropsychiatric
+        Symptoms of Dementia
+  container-title-short: J Am Geriatr Soc
+  container-title: Journal of the American Geriatrics Society
+  publisher-place: United States
+  ISSN: 0002-8614
+  issued:
+    date-parts:
+      - - 2014
+        - 4
+  page: 762-9
+  volume: "62"
+  PMID: "24635665"
+  PMCID: PMC4146407
+  DOI: 10.1111/jgs.12730
+  type: article-journal
+"24962058":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:24962058
+  title: Agitation-associated behavioral symptoms in mild cognitive impairment and
+    Alzheimer's dementia
+  author:
+    - family: Van der Mussele
+      given: Stefan
+    - family: Le Bastard
+      given: Nathalie
+    - family: Saerens
+      given: Jos
+    - family: Somers
+      given: Nore
+    - family: Mariën
+      given: Peter
+    - family: Goeman
+      given: Johan
+    - family: De Deyn
+      given: Peter P
+    - family: Engelborghs
+      given: Sebastiaan
+  container-title-short: Aging Ment Health
+  container-title: Aging & mental health
+  publisher-place: England
+  ISSN: 1360-7863
+  issued:
+    date-parts:
+      - - 2015
+  page: 247-57
+  volume: "19"
+  PMID: "24962058"
+  DOI: 10.1080/13607863.2014.924900
+  type: article-journal
+"25037289":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:25037289
+  title: "Dementia and cognitive impairment: epidemiology, diagnosis, and treatment"
+  author:
+    - family: Hugo
+      given: Julie
+    - family: Ganguli
+      given: Mary
+  container-title-short: Clin Geriatr Med
+  container-title: Clinics in geriatric medicine
+  publisher-place: United States
+  ISSN: 0749-0690
+  issued:
+    date-parts:
+      - - 2014
+        - 8
+  page: 421-42
+  volume: "30"
+  PMID: "25037289"
+  PMCID: PMC4104432
+  DOI: 10.1016/j.cger.2014.04.001
+  type: article-journal
+"25133184":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:25133184
+  title: Behavioral and psychological symptoms in Alzheimer's disease
+  author:
+    - family: Li
+      given: Xiao-Ling
+    - family: Hu
+      given: Nan
+    - family: Tan
+      given: Meng-Shan
+    - family: Yu
+      given: Jin-Tai
+    - family: Tan
+      given: Lan
+  container-title-short: Biomed Res Int
+  container-title: BioMed research international
+  publisher-place: United States
+  ISSN: 2314-6133
+  issued:
+    date-parts:
+      - - 2014
+  page: "927804"
+  volume: "2014"
+  PMID: "25133184"
+  PMCID: PMC4123596
+  DOI: 10.1155/2014/927804
+  type: article-journal
+"25311499":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:25311499
+  title: "Agitation in cognitive disorders: International Psychogeriatric
+    Association provisional consensus clinical and research definition"
+  author:
+    - family: Cummings
+      given: Jeffrey
+    - family: Mintzer
+      given: Jacobo
+    - family: Brodaty
+      given: Henry
+    - family: Sano
+      given: Mary
+    - family: Banerjee
+      given: Sube
+    - family: Devanand
+      given: D P
+    - family: Gauthier
+      given: Serge
+    - family: Howard
+      given: Robert
+    - family: Lanctôt
+      given: Krista
+    - family: Lyketsos
+      given: Constantine G
+    - family: Peskind
+      given: Elaine
+    - family: Porsteinsson
+      given: Anton P
+    - family: Reich
+      given: Edgardo
+    - family: Sampaio
+      given: Cristina
+    - family: Steffens
+      given: David
+    - family: Wortmann
+      given: Marc
+    - family: Zhong
+      given: Kate
+    - family: International Psychogeriatric Association
+  container-title-short: Int Psychogeriatr
+  container-title: International psychogeriatrics
+  publisher-place: England
+  ISSN: 1041-6102
+  issued:
+    date-parts:
+      - - 2015
+        - 1
+  page: 7-17
+  volume: "27"
+  PMID: "25311499"
+  PMCID: PMC4301197
+  DOI: 10.1017/S1041610214001963
+  type: article-journal
+"25585033":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:25585033
+  title: "Neuropsychiatric symptoms as predictors of progression to severe
+    Alzheimer's dementia and death: the Cache County Dementia Progression Study"
+  author:
+    - family: Peters
+      given: Matthew E
+    - family: Schwartz
+      given: Sarah
+    - family: Han
+      given: Dingfen
+    - family: Rabins
+      given: Peter V
+    - family: Steinberg
+      given: Martin
+    - family: Tschanz
+      given: Joann T
+    - family: Lyketsos
+      given: Constantine G
+  container-title-short: Am J Psychiatry
+  container-title: The American journal of psychiatry
+  publisher-place: United States
+  ISSN: 0002-953X
+  issued:
+    date-parts:
+      - - 2015
+        - 5
+  page: 460-5
+  volume: "172"
+  PMID: "25585033"
+  PMCID: PMC4416978
+  DOI: 10.1176/appi.ajp.2014.14040480
+  type: article-journal
+"25731626":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:25731626
+  title: Anatomical correlates of the neuropsychiatric symptoms in Alzheimer's disease
+  author:
+    - family: Hu
+      given: Xiaochen
+    - family: Meiberth
+      given: Dix
+    - family: Newport
+      given: Beate
+    - family: Jessen
+      given: Frank
+  container-title-short: Curr Alzheimer Res
+  container-title: Current Alzheimer research
+  publisher-place: United Arab Emirates
+  ISSN: 1567-2050
+  issued:
+    date-parts:
+      - - 2015
+  page: 266-77
+  volume: "12"
+  PMID: "25731626"
+  DOI: 10.2174/1567205012666150302154914
+  type: article-journal
+"25731881":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:25731881
+  title: Assessment and management of behavioral and psychological symptoms of
+    dementia
+  author:
+    - family: Kales
+      given: Helen C
+    - family: Gitlin
+      given: Laura N
+    - family: Lyketsos
+      given: Constantine G
+  container-title-short: BMJ
+  container-title: BMJ (Clinical research ed.)
+  publisher-place: England
+  ISSN: 0959-8138
+  issued:
+    date-parts:
+      - - 2015
+        - 3
+        - 2
+  page: h369
+  volume: "350"
+  PMID: "25731881"
+  PMCID: PMC4707529
+  DOI: 10.1136/bmj.h369
+  type: article-journal
+"26159445":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:26159445
+  title: Advancements in the treatment of agitation in Alzheimer's disease
+  author:
+    - family: Antonsdottir
+      given: Inga M
+    - family: Smith
+      given: Jessica
+    - family: Keltz
+      given: Melanie
+    - family: Porsteinsson
+      given: Anton P
+  container-title-short: Expert Opin Pharmacother
+  container-title: Expert opinion on pharmacotherapy
+  publisher-place: England
+  ISSN: 1465-6566
+  issued:
+    date-parts:
+      - - 2015
+  page: 1649-56
+  volume: "16"
+  PMID: "26159445"
+  DOI: 10.1517/14656566.2015.1059422
+  type: article-journal
+"26303700":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:26303700
+  title: "Citalopram for the Treatment of Agitation in Alzheimer Dementia: Genetic
+    Influences"
+  author:
+    - family: Peters
+      given: Matthew E
+    - family: Vaidya
+      given: Vijay
+    - family: Drye
+      given: Lea T
+    - family: Devanand
+      given: Davangere P
+    - family: Mintzer
+      given: Jacobo E
+    - family: Pollock
+      given: Bruce G
+    - family: Porsteinsson
+      given: Anton P
+    - family: Rosenberg
+      given: Paul B
+    - family: Schneider
+      given: Lon S
+    - family: Shade
+      given: David M
+    - family: Weintraub
+      given: Daniel
+    - family: Yesavage
+      given: Jerome
+    - family: Lyketsos
+      given: Constantine G
+    - family: Avramopoulos
+      given: Dimitri
+    - family: CitAD Research Group
+  container-title-short: J Geriatr Psychiatry Neurol
+  container-title: Journal of geriatric psychiatry and neurology
+  publisher-place: United States
+  ISSN: 0891-9887
+  issued:
+    date-parts:
+      - - 2016
+        - 3
+  page: 59-64
+  volume: "29"
+  PMID: "26303700"
+  PMCID: PMC5166612
+  DOI: 10.1177/0891988715601735
+  type: article-journal
+"26404712":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:26404712
+  title: "Stress weakens prefrontal networks: molecular insults to higher cognition"
+  author:
+    - family: Arnsten
+      given: Amy F T
+  container-title-short: Nat Neurosci
+  container-title: Nature neuroscience
+  publisher-place: United States
+  ISSN: 1097-6256
+  issued:
+    date-parts:
+      - - 2015
+        - 10
+  page: 1376-85
+  volume: "18"
+  PMID: "26404712"
+  PMCID: PMC4816215
+  DOI: 10.1038/nn.4087
+  type: article-journal
+"26695173":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:26695173
+  title: "Agitation and Irritability in Alzheimer's Disease: Evidenced-Based
+    Treatments and the Black-Box Warning"
+  author:
+    - family: Koenig
+      given: Aaron M
+    - family: Arnold
+      given: Steven E
+    - family: Streim
+      given: Joel E
+  container-title-short: Curr Psychiatry Rep
+  container-title: Current psychiatry reports
+  publisher-place: United States
+  ISSN: 1523-3812
+  issued:
+    date-parts:
+      - - 2016
+        - 1
+  page: "3"
+  volume: "18"
+  PMID: "26695173"
+  PMCID: PMC6483820
+  DOI: 10.1007/s11920-015-0640-7
+  type: article-journal
+"26760674":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:26760674
+  title: Mini-Mental State Examination (MMSE) for the detection of dementia in
+    clinically unevaluated people aged 65 and over in community and primary care
+    populations
+  author:
+    - family: Creavin
+      given: Sam T
+    - family: Wisniewski
+      given: Susanna
+    - family: Noel-Storr
+      given: Anna H
+    - family: Trevelyan
+      given: Clare M
+    - family: Hampton
+      given: Thomas
+    - family: Rayment
+      given: Dane
+    - family: Thom
+      given: Victoria M
+    - family: Nash
+      given: Kirsty J E
+    - family: Elhamoui
+      given: Hosam
+    - family: Milligan
+      given: Rowena
+    - family: Patel
+      given: Anish S
+    - family: Tsivos
+      given: Demitra V
+    - family: Wing
+      given: Tracey
+    - family: Phillips
+      given: Emma
+    - family: Kellman
+      given: Sophie M
+    - family: Shackleton
+      given: Hannah L
+    - family: Singleton
+      given: Georgina F
+    - family: Neale
+      given: Bethany E
+    - family: Watton
+      given: Martha E
+    - family: Cullum
+      given: Sarah
+  container-title-short: Cochrane Database Syst Rev
+  container-title: The Cochrane database of systematic reviews
+  publisher-place: England
+  ISSN: 1361-6137
+  issued:
+    date-parts:
+      - - 2016
+        - 1
+        - 13
+  page: CD011145
+  volume: "2016"
+  PMID: "26760674"
+  PMCID: PMC8812342
+  DOI: 10.1002/14651858.CD011145.pub2
+  type: article-journal
+"26955265":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:26955265
+  title: "Optimal nonpharmacological management of agitation in Alzheimer's
+    disease: challenges and solutions"
+  author:
+    - family: Millán-Calenti
+      given: José Carlos
+    - family: Lorenzo-López
+      given: Laura
+    - family: Alonso-Búa
+      given: Begoña
+    - family: de Labra
+      given: Carmen
+    - family: González-Abraldes
+      given: Isabel
+    - family: Maseda
+      given: Ana
+  container-title-short: Clin Interv Aging
+  container-title: Clinical interventions in aging
+  publisher-place: New Zealand
+  ISSN: 1176-9092
+  issued:
+    date-parts:
+      - - 2016
+        - 2
+        - 22
+  page: 175-84
+  volume: "11"
+  PMID: "26955265"
+  PMCID: PMC4769004
+  DOI: 10.2147/CIA.S69484
+  type: article-journal
+"27133416":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:27133416
+  title: The American Psychiatric Association Practice Guideline on the Use of
+    Antipsychotics to Treat Agitation or Psychosis in Patients With Dementia
+  author:
+    - family: Reus
+      given: Victor I
+    - family: Fochtmann
+      given: Laura J
+    - family: Eyler
+      given: A Evan
+    - family: Hilty
+      given: Donald M
+    - family: Horvitz-Lennon
+      given: Marcela
+    - family: Jibson
+      given: Michael D
+    - family: Lopez
+      given: Oscar L
+    - family: Mahoney
+      given: Jane
+    - family: Pasic
+      given: Jagoda
+    - family: Tan
+      given: Zaldy S
+    - family: Wills
+      given: Cheryl D
+    - family: Rhoads
+      given: Richard
+    - family: Yager
+      given: Joel
+  container-title-short: Am J Psychiatry
+  container-title: The American journal of psychiatry
+  publisher-place: United States
+  ISSN: 0002-953X
+  issued:
+    date-parts:
+      - - 2016
+        - 5
+        - 1
+  page: 543-6
+  volume: "173"
+  PMID: "27133416"
+  DOI: 10.1176/appi.ajp.2015.173501
+  type: article-journal
+"29307592":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:29307592
+  title: "Complex noradrenergic dysfunction in Alzheimer's disease: Low
+    norepinephrine input is not always to blame"
+  author:
+    - family: Gannon
+      given: Mary
+    - family: Wang
+      given: Qin
+  container-title-short: Brain Res
+  container-title: Brain research
+  publisher-place: Netherlands
+  ISSN: 0006-8993
+  issued:
+    date-parts:
+      - - 2019
+        - 1
+        - 1
+  page: 12-16
+  volume: "1702"
+  PMID: "29307592"
+  PMCID: PMC6855395
+  DOI: 10.1016/j.brainres.2018.01.001
+  type: article-journal
+"29508259":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:29508259
+  title: "Underdiagnosis of Dementia: an Observational Study of Patterns in
+    Diagnosis and Awareness in US Older Adults"
+  author:
+    - family: Amjad
+      given: Halima
+    - family: Roth
+      given: David L
+    - family: Sheehan
+      given: Orla C
+    - family: Lyketsos
+      given: Constantine G
+    - family: Wolff
+      given: Jennifer L
+    - family: Samus
+      given: Quincy M
+  container-title-short: J Gen Intern Med
+  container-title: Journal of general internal medicine
+  publisher-place: United States
+  ISSN: 0884-8734
+  issued:
+    date-parts:
+      - - 2018
+        - 7
+  page: 1131-1138
+  volume: "33"
+  PMID: "29508259"
+  PMCID: PMC6025653
+  DOI: 10.1007/s11606-018-4377-y
+  type: article-journal
+"29524596":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:29524596
+  title: "The neurochemistry of agitation in Alzheimer's disease: a systematic review"
+  author:
+    - family: Liu
+      given: Kathy Y
+    - family: Stringer
+      given: Aisling E
+    - family: Reeves
+      given: Suzanne J
+    - family: Howard
+      given: Robert J
+  container-title-short: Ageing Res Rev
+  container-title: Ageing research reviews
+  publisher-place: England
+  ISSN: 1568-1637
+  issued:
+    date-parts:
+      - - 2018
+        - 5
+  page: 99-107
+  volume: "43"
+  PMID: "29524596"
+  DOI: 10.1016/j.arr.2018.03.003
+  type: article-journal
+"29616702":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:29616702
+  title: "Identifying Better Outcome Measures to Improve Treatment of Agitation in
+    Dementia: A Report from the EU/US/CTAD Task Force"
+  author:
+    - family: Sano
+      given: M
+    - family: Soto
+      given: M
+    - family: Carrillo
+      given: M
+    - family: Cummings
+      given: J
+    - family: Hendrix
+      given: S
+    - family: Mintzer
+      given: J
+    - family: Porsteinsson
+      given: A
+    - family: Rosenberg
+      given: P
+    - family: Schneider
+      given: L
+    - family: Touchon
+      given: J
+    - family: Aisen
+      given: P
+    - family: Vellas
+      given: B
+    - family: Lyketsos
+      given: C
+  container-title-short: J Prev Alzheimers Dis
+  container-title: The journal of prevention of Alzheimer's disease
+  publisher-place: Switzerland
+  ISSN: 2274-5807
+  issued:
+    date-parts:
+      - - 2018
+  page: 98-102
+  volume: "5"
+  PMID: "29616702"
+  PMCID: PMC6441964
+  DOI: 10.14283/jjpad.2018.15
+  type: article-journal
+"30068400":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:30068400
+  title: "Management of behavioral and psychological symptoms in people with
+    Alzheimer's disease: an international Delphi consensus"
+  author:
+    - family: Kales
+      given: Helen C
+    - family: Lyketsos
+      given: Constantine G
+    - family: Miller
+      given: Erin M
+    - family: Ballard
+      given: Clive
+  container-title-short: Int Psychogeriatr
+  container-title: International psychogeriatrics
+  publisher-place: England
+  ISSN: 1041-6102
+  issued:
+    date-parts:
+      - - 2019
+        - 1
+  page: 83-90
+  volume: "31"
+  PMID: "30068400"
+  DOI: 10.1017/S1041610218000534
+  type: article-journal
+"30198597":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:30198597
+  title: "Bidirectional relationship between caregiver burden and neuropsychiatric
+    symptoms in patients with Alzheimer's disease: A narrative review"
+  author:
+    - family: Isik
+      given: Ahmet Turan
+    - family: Soysal
+      given: Pinar
+    - family: Solmi
+      given: Marco
+    - family: Veronese
+      given: Nicola
+  container-title-short: Int J Geriatr Psychiatry
+  container-title: International journal of geriatric psychiatry
+  publisher-place: England
+  ISSN: 0885-6230
+  issued:
+    date-parts:
+      - - 2019
+        - 9
+  page: 1326-1334
+  volume: "34"
+  PMID: "30198597"
+  DOI: 10.1002/gps.4965
+  type: article-journal
+"30430642":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:30430642
+  title: Using electronic health records to estimate the prevalence of agitation
+    in Alzheimer disease/dementia
+  author:
+    - family: Halpern
+      given: Rachel
+    - family: Seare
+      given: Jerald
+    - family: Tong
+      given: Junliang
+    - family: Hartry
+      given: Ann
+    - family: Olaoye
+      given: Anthony
+    - family: Aigbogun
+      given: Myrlene Sanon
+  container-title-short: Int J Geriatr Psychiatry
+  container-title: International journal of geriatric psychiatry
+  publisher-place: England
+  ISSN: 0885-6230
+  issued:
+    date-parts:
+      - - 2019
+        - 3
+  page: 420-431
+  volume: "34"
+  PMID: "30430642"
+  PMCID: PMC7379654
+  DOI: 10.1002/gps.5030
+  type: article-journal
+"30855002":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:30855002
+  title: "Agitation in patients with dementia: a systematic review of epidemiology
+    and association with severity and course"
+  author:
+    - family: Anatchkova
+      given: Milena
+    - family: Brooks
+      given: Anne
+    - family: Swett
+      given: Laura
+    - family: Hartry
+      given: Ann
+    - family: Duffy
+      given: Ruth A
+    - family: Baker
+      given: Ross A
+    - family: Hammer-Helmich
+      given: Lene
+    - family: Sanon Aigbogun
+      given: Myrlene
+  container-title-short: Int Psychogeriatr
+  container-title: International psychogeriatrics
+  publisher-place: England
+  ISSN: 1041-6102
+  issued:
+    date-parts:
+      - - 2019
+        - 9
+  page: 1305-1318
+  volume: "31"
+  PMID: "30855002"
+  DOI: 10.1017/S1041610218001898
+  type: article-journal
+"31072403":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:31072403
+  title: "Alzheimer's disease: risk factors and potentially protective measures"
+  author:
+    - family: Silva
+      given: Marcos Vinícius Ferreira
+    - family: Loures
+      given: Cristina de Mello Gomide
+    - family: Alves
+      given: Luan Carlos Vieira
+    - family: de Souza
+      given: Leonardo Cruz
+    - family: Borges
+      given: Karina Braga Gomes
+    - family: Carvalho
+      given: Maria das Graças
+  container-title-short: J Biomed Sci
+  container-title: Journal of biomedical science
+  publisher-place: England
+  ISSN: 1021-7770
+  issued:
+    date-parts:
+      - - 2019
+        - 5
+        - 9
+  page: "33"
+  volume: "26"
+  PMID: "31072403"
+  PMCID: PMC6507104
+  DOI: 10.1186/s12929-019-0524-y
+  type: article-journal
+"31138892":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:31138892
+  title: "Alzheimer's disease pathology: pathways between central norepinephrine
+    activity, memory, and neuropsychiatric symptoms"
+  author:
+    - family: Jacobs
+      given: Heidi I L
+    - family: Riphagen
+      given: Joost M
+    - family: Ramakers
+      given: Inez H G B
+    - family: Verhey
+      given: Frans R J
+  container-title-short: Mol Psychiatry
+  container-title: Molecular psychiatry
+  publisher-place: England
+  ISSN: 1359-4184
+  issued:
+    date-parts:
+      - - 2021
+        - 3
+  page: 897-906
+  volume: "26"
+  PMID: "31138892"
+  DOI: 10.1038/s41380-019-0437-x
+  type: article-journal
+"31254339":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:31254339
+  title: "The Symptoms Targeted for Monitoring in a Web-Based Tracking Tool by
+    Caregivers of People With Dementia and Agitation: Cross-Sectional Study"
+  author:
+    - family: Rockwood
+      given: Kenneth
+    - family: Sanon Aigbogun
+      given: Myrlene
+    - family: Stanley
+      given: Justin
+    - family: Wong
+      given: Helen
+    - family: Dunn
+      given: Taylor
+    - family: Chapman
+      given: Chère A T
+    - family: Howlett
+      given: Susan E
+    - family: Miguelez
+      given: Maia
+    - family: McGarrigle
+      given: Lisa
+    - family: Baker
+      given: Ross A
+  container-title-short: J Med Internet Res
+  container-title: Journal of medical Internet research
+  publisher-place: Canada
+  ISSN: 1438-8871
+  issued:
+    date-parts:
+      - - 2019
+        - 6
+        - 28
+  page: e13360
+  volume: "21"
+  PMID: "31254339"
+  PMCID: PMC6625216
+  DOI: 10.2196/13360
+  type: article-journal
+"31610547":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:31610547
+  title: "Comparative Efficacy of Interventions for Aggressive and Agitated
+    Behaviors in Dementia: A Systematic Review and Network Meta-analysis"
+  author:
+    - family: Watt
+      given: Jennifer A
+    - family: Goodarzi
+      given: Zahra
+    - family: Veroniki
+      given: Areti Angeliki
+    - family: Nincic
+      given: Vera
+    - family: Khan
+      given: Paul A
+    - family: Ghassemi
+      given: Marco
+    - family: Thompson
+      given: Yuan
+    - family: Tricco
+      given: Andrea C
+    - family: Straus
+      given: Sharon E
+  container-title-short: Ann Intern Med
+  container-title: Annals of internal medicine
+  publisher-place: United States
+  ISSN: 0003-4819
+  issued:
+    date-parts:
+      - - 2019
+        - 11
+        - 5
+  page: 633-642
+  volume: "171"
+  PMID: "31610547"
+  DOI: 10.7326/M19-0993
+  type: article-journal
+"31708380":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:31708380
+  title: "Efficacy and Safety of Brexpiprazole for the Treatment of Agitation in
+    Alzheimer's Dementia: Two 12-Week, Randomized, Double-Blind,
+    Placebo-Controlled Trials"
+  author:
+    - family: Grossberg
+      given: George T
+    - family: Kohegyi
+      given: Eva
+    - family: Mergel
+      given: Victor
+    - family: Josiassen
+      given: Mette Krog
+    - family: Meulien
+      given: Didier
+    - family: Hobart
+      given: Mary
+    - family: Slomkowski
+      given: Mary
+    - family: Baker
+      given: Ross A
+    - family: McQuade
+      given: Robert D
+    - family: Cummings
+      given: Jeffrey L
+  container-title-short: Am J Geriatr Psychiatry
+  container-title: "The American journal of geriatric psychiatry : official
+    journal of the American Association for Geriatric Psychiatry"
+  publisher-place: England
+  ISSN: 1064-7481
+  issued:
+    date-parts:
+      - - 2020
+        - 4
+  page: 383-400
+  volume: "28"
+  PMID: "31708380"
+  DOI: 10.1016/j.jagp.2019.09.009
+  type: article-journal
+"31799369":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:31799369
+  title: Institutionalization risk and costs associated with agitation in
+    Alzheimer's disease
+  author:
+    - family: Cloutier
+      given: Martin
+    - family: Gauthier-Loiselle
+      given: Marjolaine
+    - family: Gagnon-Sanschagrin
+      given: Patrick
+    - family: Guerin
+      given: Annie
+    - family: Hartry
+      given: Ann
+    - family: Baker
+      given: Ross A
+    - family: Duffy
+      given: Ruth
+    - family: Gwin
+      given: Keva
+    - family: Sanon Aigbogun
+      given: Myrlene
+  container-title-short: Alzheimers Dement (N Y)
+  container-title: Alzheimer's & dementia (New York, N. Y.)
+  publisher-place: United States
+  ISSN: 2352-8737
+  issued:
+    date-parts:
+      - - 2019
+        - 11
+        - 23
+  page: 851-861
+  volume: "5"
+  PMID: "31799369"
+  PMCID: PMC6881649
+  DOI: 10.1016/j.trci.2019.10.004
+  type: article-journal
+"32013737":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:32013737
+  title: "The Neuropsychiatric Inventory: Development and Applications"
+  author:
+    - family: Cummings
+      given: Jeffrey
+  container-title-short: J Geriatr Psychiatry Neurol
+  container-title: Journal of geriatric psychiatry and neurology
+  publisher-place: United States
+  ISSN: 0891-9887
+  issued:
+    date-parts:
+      - - 2020
+        - 3
+  page: 73-84
+  volume: "33"
+  PMID: "32013737"
+  PMCID: PMC8505128
+  DOI: 10.1177/0891988719882102
+  type: article-journal
+"32052375":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:32052375
+  title: "Management of Dementia-Related Psychosis, Agitation and Aggression: A
+    Review of the Pharmacology and Clinical Effects of Potential Drug
+    Candidates"
+  author:
+    - family: Marcinkowska
+      given: Monika
+    - family: Śniecikowska
+      given: Joanna
+    - family: Fajkis
+      given: Nikola
+    - family: Paśko
+      given: Paweł
+    - family: Franczyk
+      given: Weronika
+    - family: Kołaczkowski
+      given: Marcin
+  container-title-short: CNS Drugs
+  container-title: CNS drugs
+  publisher-place: New Zealand
+  ISSN: 1172-7047
+  issued:
+    date-parts:
+      - - 2020
+        - 3
+  page: 243-268
+  volume: "34"
+  PMID: "32052375"
+  PMCID: PMC7048860
+  DOI: 10.1007/s40263-020-00707-7
+  type: article-journal
+"32695312":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:32695312
+  title: "New antipsychotic drugs for the treatment of agitation and psychosis in
+    Alzheimer's disease: focus on brexpiprazole and pimavanserin"
+  author:
+    - family: Caraci
+      given: Filippo
+    - family: Santagati
+      given: Mario
+    - family: Caruso
+      given: Giuseppe
+    - family: Cannavò
+      given: Dario
+    - family: Leggio
+      given: Gian Marco
+    - family: Salomone
+      given: Salvatore
+    - family: Drago
+      given: Filippo
+  container-title-short: F1000Res
+  container-title: F1000Research
+  publisher-place: England
+  ISSN: 2046-1402
+  issued:
+    date-parts:
+      - - 2020
+        - 7
+        - 8
+  page: F1000 Faculty Rev-686
+  volume: "9"
+  PMID: "32695312"
+  PMCID: PMC7344175
+  DOI: 10.12688/f1000research.22662.1
+  type: article-journal
+"32925028":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:32925028
+  title: "Real-World Treatment Patterns and Characteristics Among Patients with
+    Agitation and Dementia in the United States: Findings from a Large,
+    Observational, Retrospective Chart Review"
+  author:
+    - family: Aigbogun
+      given: Myrlene Sanon
+    - family: Cloutier
+      given: Martin
+    - family: Gauthier-Loiselle
+      given: Marjolaine
+    - family: Guerin
+      given: Annie
+    - family: Ladouceur
+      given: Martin
+    - family: Baker
+      given: Ross A
+    - family: Grundman
+      given: Michael
+    - family: Duffy
+      given: Ruth A
+    - family: Hartry
+      given: Ann
+    - family: Gwin
+      given: Keva
+    - family: Fillit
+      given: Howard
+  container-title-short: J Alzheimers Dis
+  container-title: "Journal of Alzheimer's disease : JAD"
+  publisher-place: Netherlands
+  ISSN: 1387-2877
+  issued:
+    date-parts:
+      - - 2020
+  page: 1181-1194
+  volume: "77"
+  PMID: "32925028"
+  PMCID: PMC7683079
+  DOI: 10.3233/JAD-200127
+  type: article-journal
+"32962491":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:32962491
+  title: "Change in Social Engagement among Incident Caregivers and Controls:
+    Findings from the Caregiving Transitions Study"
+  author:
+    - family: Liu
+      given: Chelsea
+    - family: Fabius
+      given: Chanee D
+    - family: Howard
+      given: Virginia J
+    - family: Haley
+      given: William E
+    - family: Roth
+      given: David L
+  container-title-short: J Aging Health
+  container-title: Journal of aging and health
+  publisher-place: United States
+  ISSN: 0898-2643
+  issued:
+    date-parts:
+      - - 2021
+        - 1
+  page: 114-124
+  volume: "33"
+  PMID: "32962491"
+  DOI: 10.1177/0898264320961946
+  type: article-journal
+"33302541":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:33302541
+  title: "Comprehensive Review on Alzheimer's Disease: Causes and Treatment"
+  author:
+    - family: Breijyeh
+      given: Zeinab
+    - family: Karaman
+      given: Rafik
+  container-title-short: Molecules
+  container-title: Molecules (Basel, Switzerland)
+  publisher-place: Switzerland
+  ISSN: 1420-3049
+  issued:
+    date-parts:
+      - - 2020
+        - 12
+        - 8
+  page: "5789"
+  volume: "25"
+  PMID: "33302541"
+  PMCID: PMC7764106
+  DOI: 10.3390/molecules25245789
+  type: article-journal
+"33340800":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:33340800
+  title: "The Psychopharmacology Algorithm Project at the Harvard South Shore
+    Program: An update on management of behavioral and psychological symptoms in
+    dementia"
+  author:
+    - family: Chen
+      given: Anderson
+    - family: Copeli
+      given: Frank
+    - family: Metzger
+      given: Eran
+    - family: Cloutier
+      given: Alesia
+    - family: Osser
+      given: David N
+  container-title-short: Psychiatry Res
+  container-title: Psychiatry research
+  publisher-place: Ireland
+  ISSN: 0165-1781
+  issued:
+    date-parts:
+      - - 2021
+        - 1
+  page: "113641"
+  volume: "295"
+  PMID: "33340800"
+  DOI: 10.1016/j.psychres.2020.113641
+  type: article-journal
+"33569568":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:33569568
+  title: "Longitudinal Course of Agitation and Aggression in Patients with
+    Alzheimer's Disease in a Cohort Study: Methods, Baseline and Longitudinal
+    Results of the A3C Study"
+  author:
+    - family: De Mauleon
+      given: A
+    - family: Delrieu
+      given: J
+    - family: Cantet
+      given: C
+    - family: Vellas
+      given: B
+    - family: Andrieu
+      given: S
+    - family: Rosenberg
+      given: P B
+    - family: Lyketsos
+      given: C G
+    - family: Soto Martin
+      given: M
+  container-title-short: J Prev Alzheimers Dis
+  container-title: The journal of prevention of Alzheimer's disease
+  publisher-place: Switzerland
+  ISSN: 2274-5807
+  issued:
+    date-parts:
+      - - 2021
+  page: 199-209
+  volume: "8"
+  PMID: "33569568"
+  DOI: 10.14283/jpad.2020.66
+  type: article-journal
+"33756057":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:33756057
+  title: 2021 Alzheimer's disease facts and figures
+  author: []
+  container-title-short: Alzheimers Dement
+  container-title: "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  publisher-place: United States
+  ISSN: 1552-5260
+  issued:
+    date-parts:
+      - - 2021
+        - 3
+  page: 327-406
+  volume: "17"
+  PMID: "33756057"
+  DOI: 10.1002/alz.12328
+  type: article-journal
+"34043283":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:34043283
+  title: Population estimate of people with clinical Alzheimer's disease and mild
+    cognitive impairment in the United States (2020-2060)
+  author:
+    - family: Rajan
+      given: Kumar B
+    - family: Weuve
+      given: Jennifer
+    - family: Barnes
+      given: Lisa L
+    - family: McAninch
+      given: Elizabeth A
+    - family: Wilson
+      given: Robert S
+    - family: Evans
+      given: Denis A
+  container-title-short: Alzheimers Dement
+  container-title: "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  publisher-place: United States
+  ISSN: 1552-5260
+  issued:
+    date-parts:
+      - - 2021
+        - 12
+  page: 1966-1975
+  volume: "17"
+  PMID: "34043283"
+  PMCID: PMC9013315
+  DOI: 10.1002/alz.12362
+  type: article-journal
+"34250934":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:34250934
+  title: "Agitation in Dementia: Real-World Impact and Burden on Patients and the
+    Healthcare System"
+  author:
+    - family: Jones
+      given: Eddie
+    - family: Aigbogun
+      given: Myrlene Sanon
+    - family: Pike
+      given: James
+    - family: Berry
+      given: Mia
+    - family: Houle
+      given: Christy R
+    - family: Husbands
+      given: Joseph
+  container-title-short: J Alzheimers Dis
+  container-title: "Journal of Alzheimer's disease : JAD"
+  publisher-place: Netherlands
+  ISSN: 1387-2877
+  issued:
+    date-parts:
+      - - 2021
+  page: 89-101
+  volume: "83"
+  PMID: "34250934"
+  PMCID: PMC8461728
+  DOI: 10.3233/JAD-210105
+  type: article-journal
+"34286877":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:34286877
+  title: Impact of agitation in long-term care residents with dementia in the
+    United States
+  author:
+    - family: Fillit
+      given: Howard
+    - family: Aigbogun
+      given: Myrlene S
+    - family: Gagnon-Sanschagrin
+      given: Patrick
+    - family: Cloutier
+      given: Martin
+    - family: Davidson
+      given: Mikhaïl
+    - family: Serra
+      given: Elizabeth
+    - family: Guérin
+      given: Annie
+    - family: Baker
+      given: Ross A
+    - family: Houle
+      given: Christy R
+    - family: Grossberg
+      given: George
+  container-title-short: Int J Geriatr Psychiatry
+  container-title: International journal of geriatric psychiatry
+  publisher-place: England
+  ISSN: 0885-6230
+  issued:
+    date-parts:
+      - - 2021
+        - 12
+  page: 1959-1969
+  volume: "36"
+  PMID: "34286877"
+  PMCID: PMC9291552
+  DOI: 10.1002/gps.5604
+  type: article-journal
+"34744832":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:34744832
+  title: "Prevalence of Behavioral and Psychological Symptoms of Dementia in
+    Community-Dwelling Dementia Patients: A Systematic Review"
+  author:
+    - family: Kwon
+      given: Chan-Young
+    - family: Lee
+      given: Boram
+  container-title-short: Front Psychiatry
+  container-title: Frontiers in psychiatry
+  publisher-place: Switzerland
+  ISSN: 1664-0640
+  issued:
+    date-parts:
+      - - 2021
+        - 10
+        - 21
+  page: "741059"
+  volume: "12"
+  PMID: "34744832"
+  PMCID: PMC8566725
+  DOI: 10.3389/fpsyt.2021.741059
+  type: article-journal
+"35289055":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  id: pmid:35289055
+  title: 2022 Alzheimer's disease facts and figures
+  author: []
+  container-title-short: Alzheimers Dement
+  container-title: "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  publisher-place: United States
+  ISSN: 1552-5260
+  issued:
+    date-parts:
+      - - 2022
+        - 4
+  page: 700-789
+  volume: "18"
+  PMID: "35289055"
+  DOI: 10.1002/alz.12638
+  type: article-journal
+"36880250":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 4
+  id: pmid:36880250
+  title: "Agitation in cognitive disorders: Progress in the International
+    Psychogeriatric Association consensus clinical and research definition"
+  author:
+    - family: Sano
+      given: Mary
+    - family: Cummings
+      given: Jeffrey
+    - family: Auer
+      given: Stefanie
+    - family: Bergh
+      given: Sverre
+    - family: Fischer
+      given: Corinne E
+    - family: Gerritsen
+      given: Debby
+    - family: Grossberg
+      given: George
+    - family: Ismail
+      given: Zahinoor
+    - family: Lanctôt
+      given: Krista
+    - family: Lapid
+      given: Maria I
+    - family: Mintzer
+      given: Jacobo
+    - family: Palm
+      given: Rebecca
+    - family: Rosenberg
+      given: Paul B
+    - family: Splaine
+      given: Michael
+    - family: Zhong
+      given: Kate
+    - family: Zhu
+      given: Carolyn W
+  container-title-short: Int Psychogeriatr
+  container-title: International psychogeriatrics
+  publisher-place: England
+  ISSN: 1041-6102
+  issued:
+    date-parts:
+      - - 2023
+        - 3
+        - 7
+  page: 1-13
+  volume: ""
+  PMID: "36880250"
+  DOI: 10.1017/S1041610222001041
+  type: article-journal
+"36918389":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 4
+  id: pmid:36918389
+  title: 2023 Alzheimer's disease facts and figures
+  author: []
+  container-title-short: Alzheimers Dement
+  container-title: "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+  publisher-place: United States
+  ISSN: 1552-5260
+  issued:
+    date-parts:
+      - - 2023
+        - 3
+        - 14
+  page: 10.1002/alz.13016
+  volume: ""
+  PMID: "36918389"
+  DOI: 10.1002/alz.13016
+  type: article-journal
+griffiths-validation-of-cohen-mansfield:
+  kind: custom
+  hash: griffiths-validation-of-cohen-mansfield
+  authors:
+    - Griffiths AW
+    - Albertyn CP
+    - Burnley NL
+  title: Validation of the Cohen-Mansfield Agitation Inventory Observational
+    (CMAI-O) tool
+  journal: Int Psychogeriatr
+  date: "2020"
+  volume: 32(1)
+  pages: 75-85
+alzheimers-care-quarterly-2001:
+  kind: custom
+  hash: alzheimers-care-quarterly-2001
+  authors:
+    - Snyder, L
+  title: The lived experiences of Alzheimer’s – Understanding the feelings and
+    subjective accounts of persons with the disease
+  journal: Alzheimer's Care Quarterly
+  date: "2001"
+  volume: 2(2)
+  pages: 8-22
+httpswwwdementiaresearchorgauwp-contentuploads201606CMAI_Manualpdf:
+  kind: url
+  url: https://www.dementiaresearch.org.au/wp-content/uploads/2016/06/CMAI_Manual.pdf
+  authors:
+    - Cohen-Mansfield J
+  title: Instruction Manual for the Cohen-Mansfield Agitation Inventory (CMAI)
+  journal: "Maryland: Research Institute of the Hebrew Home of Greater Washington"
+  date: "1991"
+httpswwwdementiaresearchorgauwp-contentuploads201601NPI-NH_crpdf:
+  kind: url
+  url: https://www.dementiaresearch.org.au/wp-content/uploads/2016/01/NPI-NH_cr.pdf
+  authors:
+    - Cummings JL
+  title: Neuropsychiatric Inventory Nursing Home Version (NPI-NH) Instructions for
+    Use and Administration
+httpswwwcdcgovnchsdatadatabriefsdb116pdf:
+  kind: url
+  url: https://www.cdc.gov/nchs/data/databriefs/db116.pdf
+httpswwwcdcgovaginghealthybrainten-warning-signshtml:
+  kind: url
+  url: https://www.cdc.gov/aging/healthybrain/ten-warning-signs.html
+httpswwwnianihgovhealthwhat-long-term-care:
+  kind: url
+  url: https://www.nia.nih.gov/health/what-long-term-care
+httpswwwagingcarecomarticlesadult-day-care-alzheimers-dementia-138260html:
+  kind: url
+  url: https://www.agingcare.com/articles/adult-day-care-alzheimers-dementia-138260.html
+httpswwwalzorghelp-supportcaregivingcare-optionslong-term-care:
+  kind: url
+  url: https://www.alz.org/help-support/caregiving/care-options/long-term-care
+httpswwwnianihgovhealthfinding-long-term-care-person-alzheimers:
+  kind: url
+  url: https://www.nia.nih.gov/health/finding-long-term-care-person-alzheimers
+httpsdaanoworgwp-contentuploads202106Hear-Our-Voices-FINALpdf:
+  kind: url
+  url: https://daanow.org/wp-content/uploads/2021/06/Hear-Our-Voices-FINAL.pdf
+  title: "Otsuka America Pharmaceutical and Global Council on Alzheimer’s Disease.
+    Hear Our Voices: Expectations vs. Experiences Living with Dementia and
+    Agitation"
+  journal: Otsuka America Pharmaceutical, Inc. Rockville, Maryland USA
+  accessed: October 2022
+"15860375":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:15860375
+  title: A renaissance in trace amines inspired by a novel GPCR family
+  author:
+    - family: Lindemann
+      given: Lothar
+    - family: Hoener
+      given: Marius C
+  container-title-short: Trends Pharmacol Sci
+  container-title: Trends in pharmacological sciences
+  publisher-place: England
+  ISSN: 0165-6147
+  issued:
+    date-parts:
+      - - 2005
+        - 5
+  page: 274-81
+  volume: "26"
+  PMID: "15860375"
+  DOI: 10.1016/j.tips.2005.03.007
+  type: article-journal
+"21525407":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:21525407
+  title: TAAR1 activation modulates monoaminergic neurotransmission, preventing
+    hyperdopaminergic and hypoglutamatergic activity
+  author:
+    - family: Revel
+      given: Florent G
+    - family: Moreau
+      given: Jean-Luc
+    - family: Gainetdinov
+      given: Raul R
+    - family: Bradaia
+      given: Amyaouch
+    - family: Sotnikova
+      given: Tatyana D
+    - family: Mory
+      given: Roland
+    - family: Durkin
+      given: Sean
+    - family: Zbinden
+      given: Katrin Groebke
+    - family: Norcross
+      given: Roger
+    - family: Meyer
+      given: Claas A
+    - family: Metzler
+      given: Veit
+    - family: Chaboz
+      given: Sylvie
+    - family: Ozmen
+      given: Laurence
+    - family: Trube
+      given: Gerhard
+    - family: Pouzet
+      given: Bruno
+    - family: Bettler
+      given: Bernhard
+    - family: Caron
+      given: Marc G
+    - family: Wettstein
+      given: Joseph G
+    - family: Hoener
+      given: Marius C
+  container-title-short: Proc Natl Acad Sci U S A
+  container-title: Proceedings of the National Academy of Sciences of the United
+    States of America
+  publisher-place: United States
+  ISSN: 0027-8424
+  issued:
+    date-parts:
+      - - 2011
+        - 5
+        - 17
+  page: 8485-90
+  volume: "108"
+  PMID: "21525407"
+  PMCID: PMC3101002
+  DOI: 10.1073/pnas.1103029108
+  type: article-journal
+"29941461":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:29941461
+  title: Trace Amines and Their Receptors
+  author:
+    - family: Gainetdinov
+      given: Raul R
+    - family: Hoener
+      given: Marius C
+    - family: Berry
+      given: Mark D
+  container-title-short: Pharmacol Rev
+  container-title: Pharmacological reviews
+  publisher-place: United States
+  ISSN: 0031-6997
+  issued:
+    date-parts:
+      - - 2018
+        - 7
+  page: 549-620
+  volume: "70"
+  PMID: "29941461"
+  DOI: 10.1124/pr.117.015305
+  type: article-journal
+"18083911":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:18083911
+  title: Trace amine-associated receptor 1 modulates dopaminergic activity
+  author:
+    - family: Lindemann
+      given: Lothar
+    - family: Meyer
+      given: Claas Aiko
+    - family: Jeanneau
+      given: Karine
+    - family: Bradaia
+      given: Amyaouch
+    - family: Ozmen
+      given: Laurence
+    - family: Bluethmann
+      given: Horst
+    - family: Bettler
+      given: Bernhard
+    - family: Wettstein
+      given: Joseph G
+    - family: Borroni
+      given: Edilio
+    - family: Moreau
+      given: Jean-Luc
+    - family: Hoener
+      given: Marius C
+  container-title-short: J Pharmacol Exp Ther
+  container-title: The Journal of pharmacology and experimental therapeutics
+  publisher-place: United States
+  ISSN: 0022-3565
+  issued:
+    date-parts:
+      - - 2008
+        - 3
+  page: 948-56
+  volume: "324"
+  PMID: "18083911"
+  DOI: 10.1124/jpet.107.132647
+  type: article-journal
+"27092049":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:27092049
+  title: "Trace Amines and the Trace Amine-Associated Receptor 1: Pharmacology,
+    Neurochemistry, and Clinical Implications"
+  author:
+    - family: Pei
+      given: Yue
+    - family: Asif-Malik
+      given: Aman
+    - family: Canales
+      given: Juan J
+  container-title-short: Front Neurosci
+  container-title: Frontiers in neuroscience
+  publisher-place: Switzerland
+  ISSN: 1662-453X
+  issued:
+    date-parts:
+      - - 2016
+        - 4
+        - 5
+  page: "148"
+  volume: "10"
+  PMID: "27092049"
+  PMCID: PMC4820462
+  DOI: 10.3389/fnins.2016.00148
+  type: article-journal
+"29375386":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:29375386
+  title: The Case for TAAR1 as a Modulator of Central Nervous System Function
+  author:
+    - family: Rutigliano
+      given: Grazia
+    - family: Accorroni
+      given: Alice
+    - family: Zucchi
+      given: Riccardo
+  container-title-short: Front Pharmacol
+  container-title: Frontiers in pharmacology
+  publisher-place: Switzerland
+  ISSN: 1663-9812
+  issued:
+    date-parts:
+      - - 2018
+        - 1
+        - 10
+  page: "987"
+  volume: "8"
+  PMID: "29375386"
+  PMCID: PMC5767590
+  DOI: 10.3389/fphar.2017.00987
+  type: article-journal
+"31130864":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:31130864
+  title: Trace Amine-Associated Receptor 1 Agonist Modulates Mismatch
+    Negativity-Like Responses in Mice
+  author:
+    - family: Aleksandrov
+      given: Aleksander A
+    - family: Knyazeva
+      given: Veronika M
+    - family: Volnova
+      given: Anna B
+    - family: Dmitrieva
+      given: Elena S
+    - family: Polyakova
+      given: Nadezhda V
+    - family: Gainetdinov
+      given: Raul R
+  container-title-short: Front Pharmacol
+  container-title: Frontiers in pharmacology
+  publisher-place: Switzerland
+  ISSN: 1663-9812
+  issued:
+    date-parts:
+      - - 2019
+        - 5
+        - 3
+  page: "470"
+  volume: "10"
+  PMID: "31130864"
+  PMCID: PMC6509589
+  DOI: 10.3389/fphar.2019.00470
+  type: article-journal
+"22705041":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:22705041
+  title: Trace amine-associated receptor 1 partial agonism reveals novel paradigm
+    for neuropsychiatric therapeutics
+  author:
+    - family: Revel
+      given: Florent G
+    - family: Moreau
+      given: Jean-Luc
+    - family: Gainetdinov
+      given: Raul R
+    - family: Ferragud
+      given: Antonio
+    - family: Velázquez-Sánchez
+      given: Clara
+    - family: Sotnikova
+      given: Tatyana D
+    - family: Morairty
+      given: Stephen R
+    - family: Harmeier
+      given: Anja
+    - family: Groebke Zbinden
+      given: Katrin
+    - family: Norcross
+      given: Roger D
+    - family: Bradaia
+      given: Amyaouch
+    - family: Kilduff
+      given: Thomas S
+    - family: Biemans
+      given: Barbara
+    - family: Pouzet
+      given: Bruno
+    - family: Caron
+      given: Marc G
+    - family: Canales
+      given: Juan J
+    - family: Wallace
+      given: Tanya L
+    - family: Wettstein
+      given: Joseph G
+    - family: Hoener
+      given: Marius C
+  container-title-short: Biol Psychiatry
+  container-title: Biological psychiatry
+  publisher-place: United States
+  ISSN: 0006-3223
+  issued:
+    date-parts:
+      - - 2012
+        - 12
+        - 1
+  page: 934-42
+  volume: "72"
+  PMID: "22705041"
+  DOI: 10.1016/j.biopsych.2012.05.014
+  type: article-journal
+"24565640":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:24565640
+  title: "Taar1-mediated modulation of presynaptic dopaminergic neurotransmission:
+    role of D2 dopamine autoreceptors"
+  author:
+    - family: Leo
+      given: D
+    - family: Mus
+      given: L
+    - family: Espinoza
+      given: S
+    - family: Hoener
+      given: M C
+    - family: Sotnikova
+      given: T D
+    - family: Gainetdinov
+      given: R R
+  container-title-short: Neuropharmacology
+  container-title: Neuropharmacology
+  publisher-place: England
+  ISSN: 0028-3908
+  issued:
+    date-parts:
+      - - 2014
+        - 6
+  page: 283-91
+  volume: "81"
+  PMID: "24565640"
+  DOI: 10.1016/j.neuropharm.2014.02.007
+  type: article-journal
+"22641180":
+  kind: pubmed
+  source: PubMed
+  accessed:
+    date-parts:
+      - - 2023
+        - 4
+        - 5
+  id: pmid:22641180
+  title: "A new perspective for schizophrenia: TAAR1 agonists reveal
+    antipsychotic- and antidepressant-like activity, improve cognition and
+    control body weight"
+  author:
+    - family: Revel
+      given: F G
+    - family: Moreau
+      given: J-L
+    - family: Pouzet
+      given: B
+    - family: Mory
+      given: R
+    - family: Bradaia
+      given: A
+    - family: Buchy
+      given: D
+    - family: Metzler
+      given: V
+    - family: Chaboz
+      given: S
+    - family: Groebke Zbinden
+      given: K
+    - family: Galley
+      given: G
+    - family: Norcross
+      given: R D
+    - family: Tuerck
+      given: D
+    - family: Bruns
+      given: A
+    - family: Morairty
+      given: S R
+    - family: Kilduff
+      given: T S
+    - family: Wallace
+      given: T L
+    - family: Risterucci
+      given: C
+    - family: Wettstein
+      given: J G
+    - family: Hoener
+      given: M C
+  container-title-short: Mol Psychiatry
+  container-title: Molecular psychiatry
+  publisher-place: England
+  ISSN: 1359-4184
+  issued:
+    date-parts:
+      - - 2013
+        - 5
+  page: 543-56
+  volume: "18"
+  PMID: "22641180"
+  DOI: 10.1038/mp.2012.57
+  type: article-journal

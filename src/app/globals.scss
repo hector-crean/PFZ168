@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+$pfizer-blue: hsl(205, 100%, 39%);
+$pfizer-navy: hsl(216, 100%, 22%);
+$pfizer-green: hsl(180, 98%, 16%);
+$pfizer-red: #cc0000;
+$pfizer-yellow: #ffb81c;
+$pfizer-gray: #cccccc;
+
+$body-font-family: "Noto Sans", sans-serif;
+$heading-font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+:root {
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: $body-font-family;
+    font-size: 16px;
+    line-height: 1.5;
+
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+    max-width: 100vw;
+}
+
+/* Typography */
+body {
+    font-family: $body-font-family;
+    font-size: 16px;
+    line-height: 1.5;
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $heading-font-family;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.75rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
+
+h5 {
+    font-size: 1.25rem;
+}
+
+h6 {
+    font-size: 1rem;
+}
+
+/* Colors */
+body {
+    color: $pfizer-navy;
+    background-color: #fff;
+}
+
+a {
+    color: $pfizer-blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

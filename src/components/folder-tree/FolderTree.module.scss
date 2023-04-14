@@ -1,0 +1,175 @@
+// @use '~styles/lib' as *;
+@use "sass:meta";
+
+//palette
+$off-white: rgb(250, 246, 245);
+$white: rgb(250, 246, 245);
+$grey-1: rgb(196, 194, 201);
+$grey-2: rgb(116, 118, 135);
+$grey-3: rgb(42, 45, 74);
+// $lightened-base-color: color(var(--base-color) whiteness(40%));
+$lightened-base-color: rgb(148, 151, 173);
+$base-color: var(--base-color);
+
+$base-bg-color: $off-white;
+
+$chevron-color: white;
+
+$file-hover-bg-color: $lightened-base-color;
+$file-hover-text-color: var(--section-color);
+$file-active-bg-color: $base-bg-color;
+$file-active-text-color: var(--section-color);
+$file-active-font-weight: 650;
+
+$folder-hover-bg-color: $lightened-base-color;
+$folder-hover-text-color: $grey-3;
+$folder-active-bg-color: $off-white;
+$folder-active-text-color: $grey-3;
+$folder-active-font-weight: 600;
+
+.tree {
+  font-size: small;
+  line-height: normal;
+}
+
+.file {
+  $first-subsection-depth: 2;
+
+  width: calc(100% - 20px);
+  margin-left: 20px;
+  font-weight: 500;
+  color: $grey-2;
+  background-color: $base-bg-color;
+
+  display: flex;
+  align-items: center;
+
+  &[data-is-active="true"] {
+    background-color: $file-active-bg-color;
+    color: $file-active-text-color;
+    font-weight: $file-active-font-weight;
+  }
+  &:hover {
+    // background-color: $file-hover-bg-color;
+    font-weight: 650;
+    color: $file-hover-text-color;
+    cursor: pointer;
+  }
+
+  .fileLabel {
+    margin-left: 5px;
+    text-transform: capitalize;
+
+    padding: 0.5rem 0.5rem 0.5rem 0;
+    display: list-item; /* This has to be "list-item"                                               */
+    list-style-type: " - ";
+
+    list-style-type: disc; /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
+    list-style-position: outside; /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position */
+    &[data-depth="#{$first-subsection-depth}"] {
+      list-style-type: none; /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
+    }
+  }
+}
+
+.folder {
+  $platform-depth: 0;
+  $sections-depth: 1;
+  $first-subsection-depth: 2;
+  // border-left: 1px solid black;s
+
+  width: calc(100% - 20px);
+  margin-left: 20px;
+
+  font-weight: 500;
+  color: $grey-2;
+  // background-color: $base-bg-color;
+
+  &[data-depth="#{$sections-depth}"] {
+    margin-left: 0px;
+    width: 100%;
+  }
+
+  .folderLabel {
+    display: flex;
+    flex-direction: row;
+    text-transform: capitalize;
+
+    padding: 0.5rem 0rem 0.5rem 0rem;
+
+    &[data-is-active="true"] {
+      // background-color: $folder-active-bg-color;
+      color: $folder-active-text-color;
+      font-weight: $folder-active-font-weight;
+      // @include animate-transition(color, font-weight, background-color 0.4s ease-out);
+    }
+
+    &[data-depth="#{$sections-depth}"] {
+      background-color: var(--base-color);
+      color: white;
+      &:hover {
+        color: white;
+      }
+    }
+
+    &:hover {
+      // background-color: $folder-hover-bg-color;
+      font-weight: 650;
+      color: $folder-hover-text-color;
+      cursor: pointer;
+    }
+
+    .folderName {
+      flex: 1;
+      margin-left: 5px;
+      padding-right: 0.5rem;
+
+      display: list-item; /* This has to be "list-item"                                               */
+      list-style-type: disc; /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
+      list-style-position: outside; /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position */
+      &[data-depth="#{$first-subsection-depth}"] {
+        list-style-type: none; /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
+      }
+    }
+
+    .folderChevron {
+      padding-right: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      svg {
+        color: black;
+
+        &[data-depth="#{$sections-depth}"] {
+          color: white;
+        }
+
+        &[data-is-open="false"] {
+          transform: rotateZ(0deg);
+          // @include animate-transition(transform, 0.4s ease-out);
+        }
+
+        &[data-is-open="true"] {
+          transform: rotateZ(90deg);
+          // @include animate-transition(transform, 0.4s ease-out);
+        }
+      }
+    }
+  }
+}
+
+.collapsible {
+  &[data-is-open="false"] {
+    max-height: 0px;
+    transform: scaleY(0); // *squish*
+  }
+  &[data-is-open="true"] {
+    overflow: hidden;
+    height: auto;
+    transform: scaleY(1); // implicit, but good to specify explicitly
+    transform-origin: top; // keep the top of the element in the same place. this is optional.
+    // transition: transform 0.3s ease-out; // note that we're transitioning transform, not height!
+    // @include animate-transition(transform 0.4s ease-out);
+  }
+}
