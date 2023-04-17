@@ -1,6 +1,6 @@
 "use client";
 
-import { Header } from "@/layouts/Header";
+import { Header } from "@/components/Header";
 import { tree } from '@/routes';
 import { usePathname } from "next/navigation";
 import styles from "./layout.module.scss";
