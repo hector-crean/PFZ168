@@ -15,6 +15,11 @@ $heading-font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-seri
 
 * {
     box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    scroll-snap-type: y mandatory;
 }
 
 html,
@@ -37,6 +42,21 @@ body {
     font-size: 16px;
     line-height: 1.5;
     overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+    background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--accent);
+    -webkit-border-radius: 1ex;
+}
+
+::-webkit-scrollbar-corner {
+    background: var(--background);
 }
 
 h1,
