@@ -1,14 +1,13 @@
+import { NavigationMenuImpl } from "@/components/navigation-menu";
 import { Tree } from "@/models/tree";
+import PfizerIcon from '@/svg/pfizer';
 import {
     motion,
     useScroll,
     useSpring
 } from "framer-motion";
-import styles from './header.module.scss';
-
-import { NavigationMenuImpl } from "@/components/navigation-menu";
-import PfizerIcon from '@/svg/pfizer';
 import Link from "next/link";
+import styles from './header.module.scss';
 
 
 
@@ -28,13 +27,6 @@ const Header = ({ nodes, activePathname }: HeaderProps) => {
         damping: 30,
         restDelta: 0.001
     });
-
-
-
-
-
-
-
 
 
     return (
