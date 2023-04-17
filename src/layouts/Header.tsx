@@ -1,3 +1,5 @@
+"use client";
+
 import { NavigationMenuImpl } from "@/components/navigation-menu";
 import { Tree } from "@/models/tree";
 import PfizerIcon from '@/svg/pfizer';
