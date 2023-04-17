@@ -1,8 +1,8 @@
 "use client";
+import { Block, Blocks } from "@/components/Block";
 import { HeroBanner } from "@/components/HeroBanner";
 import { JourneyThroughCoordinateSpace } from "@/components/charts-3D/JourneyThroughCoordinateSpace";
 import { Skip } from "@/components/skip";
-import { Block, Blocks } from "@/layouts/Block";
 import { motion, useMotionValueEvent, useScroll } from "framer-motion";
 import { useRef, useState } from "react";
 
