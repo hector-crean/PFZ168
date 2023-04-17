@@ -1,6 +1,3 @@
-import {
-    Stack,
-} from "@/components/Stack";
 import { Tree } from "@/models/tree";
 import {
     motion,
@@ -37,7 +34,6 @@ const Header = ({ nodes, activePathname }: HeaderProps) => {
 
 
 
-    const MotionStack = motion(Stack);
 
 
 
