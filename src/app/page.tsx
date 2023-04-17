@@ -51,19 +51,18 @@ const LandingPage = () => {
       />
       <Blocks id='content' as='article'>
         <Block as='section' fullBleed={false} style={{ paddingTop: '80px' }}>
-          <p>
-            Principal Component Analysis (PCA) is a widely used technique in data analysis that allows reducing the dimensionality of a large set of correlated variables into a smaller set of uncorrelated variables known as principal components. By doing so, it becomes easier to visualize and interpret the data, identify patterns, and reduce noise and redundancy.
-          </p>
-          <p>
-            In the context of patient response to an immunotherapy treatment, using PCA to reduce the multidimensional feature set into 3D would allow clustering patients who have a similar response to the treatment. Patients who are closer in this lower-dimensional space would be considered to have a similar treatment response. This could be useful for several reasons, such as:
-          </p>
-          <p>
+          <p>This site is a basic WIP mockup of the ui shell for PFZ169</p>
+          <p>See <code>https://pfz-169.vercel.app/overview</code> for mockups of the charts</p>
+          <p>See <code>https://pfz-169.vercel.app/sections</code> for a mockup of the navigation</p>
 
-            Identifying subgroups of patients with similar responses to the treatment, which may help to develop personalized treatment plans and improve patient outcomes.
-            Visualizing the data in a more intuitive way, making it easier to communicate the results to others, including medical professionals, patients, and their families.
-            Identifying which features or variables are most important for predicting treatment response, which could inform future research and development of new treatments.
-            Overall, using PCA to reduce the dimensionality of the patient data can help to simplify and clarify the data, making it easier to understand and act upon.
-          </p>
+        </Block>
+        <Block as='section' fullBleed={false} style={{ paddingTop: '80px' }}>
+          <p>Landing page could give introductory detail about the study, and an overview of the patient cohort.</p>
+        </Block>
+
+        <Block as='section' fullBleed={false} style={{ paddingTop: '80px' }}>
+          <p>For instance, the features of the patients in the dataset could be visualised in 3D space, and various partitions/groupings could be highlighted</p>
+          <p>Below is a mockup of how scroll could facillitate a focus on particular parts of a dataset visualised in 3D</p>
         </Block>
         <Block as='section' fullBleed={true}>
           <JourneyThroughCoordinateSpace />
