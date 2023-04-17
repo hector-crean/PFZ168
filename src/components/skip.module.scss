@@ -1,0 +1,23 @@
+$viewport-padding: 20px;
+
+.skip {
+    z-index: 200;
+    margin: 2rem;
+    padding: 0 20px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+
+    border: 1px grey solid;
+    background-color: transparent;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: background-color 0.2s ease-in-out;
+
+    &:hover {
+        cursor: pointer;
+        background-color: grey;
+        color: white;
+    }
+}
