@@ -1,15 +1,12 @@
-"use client";
-
-import { ReactNode, useState, MouseEventHandler } from "react";
-import styles from "./FolderTree.module.scss";
-// import type { File, Folder, Node } from "./types";
-import type { Leaf, Branch, Node } from "../../models/tree";
-import { withRouter, NextRouter } from "next/router";
+// @ts-nocheck
 import Link from "next/link";
-import { CSSProperties } from "react";
-/// types :
+import { MouseEventHandler, ReactNode, useState } from "react";
+import styles from "./FolderTree.module.scss";
 
-/// Declarative file tree API :
+
+
+
+// Collapsible component for folder expansion
 type CollapsibleProps = {
 	children: ReactNode;
 	isOpen: boolean;
@@ -26,12 +23,14 @@ const Collapsible = ({ children, isOpen, isActive }: CollapsibleProps) => (
 	</div>
 );
 
+// File component
 type FileProps = {
 	name: string;
 	path: string;
 	depth: number;
 	activePathname: string;
 };
+
 const File = ({ name, path, depth, activePathname }: FileProps) => {
 	const isActive = activePathname === path;
 
@@ -46,26 +45,25 @@ const File = ({ name, path, depth, activePathname }: FileProps) => {
 	);
 };
 
+// Folder component
 type FolderProps = {
 	name: string;
 	path: string;
 	depth: number;
-	baseColor: { h: `${number}deg`; s: `${number}%`; l: `${number}%` };
 	disabled?: boolean;
 	children: Array<ReactNode>;
 	activePathname: string;
 };
+
 const Folder = ({
 	name,
 	path,
 	depth,
-	baseColor,
 	disabled = false,
 	children,
 	activePathname,
 }: FolderProps) => {
 	const isActive = activePathname.includes(path);
-
 	const [isOpen, setIsOpen] = useState(isActive);
 
 	const handleToggle: MouseEventHandler<HTMLDivElement> = (e) => {
@@ -80,19 +78,10 @@ const Folder = ({
 				onPointerDown={handleToggle}
 				data-is-active={isActive}
 				data-depth={depth}
-				style={
-					{
-						"--base-color": `hsl(${baseColor.h},${baseColor.s},${baseColor.l})`,
-					} as CSSProperties
-				}
 			>
 				<span className={styles.folderName} data-depth={depth}>
 					{name}
 				</span>
-				<span className={styles.folderChevron}>
-					{/* <BsChevronRight data-is-open={isOpen} data-depth={depth} /> */}
-				</span>
-				{/* <ChevronRightIcon className={styles.folderChevron} data-open={isOpen} /> */}
 			</div>
 			<Collapsible isOpen={isOpen && !disabled} isActive={isActive}>
 				{children}
@@ -101,58 +90,51 @@ const Folder = ({
 	);
 };
 
-type FsTreeProps = {
-	branches: Array<Node>;
+// File system tree component
+type NavTreeProps = {
+	nodes: Array<TreeNode>;
 	activePathname: string;
 };
-const FsTree = ({ branches, activePathname }: FsTreeProps) => {
-	/**
-	 *  - top level folders have accent color
-	 *  - lower level folders are unstyled, excerpt for if they are active, in which case they
-	 *  have bold font
-	 *  - selected pages have a background color of a slightly darker hue to the top level folder
-	 *  of which they are a descendent
-	 */
+const NavTree = ({ nodes, activePathname }: NavTreeProps) => {
+	let initialDepth = 0;
 
-	const initialDepth = 0;
+	// Recursive function to render tree nodes
+	const renderNodes = (nodes: Array<TreeNode>, depth: number) => {
 
-	const createTree = (
-		branches: Array<Node>,
-		depth: number,
-		basePath: string,
-	) => {
-		return branches.map((node, index) => {
+		return nodes.map((node, index) => {
 			switch (node.kind) {
-				case "leaf":
+				case 'leaf':
+					initialDepth += 1;
+
 					return (
 						<File
-							key={`file-${basePath}${node.path}-${index}`}
+							key={`file-${node.path}-${index}`}
 							name={node.name}
 							path={`${node.path}`}
 							depth={depth + 1}
 							activePathname={activePathname}
 						/>
 					);
-				case "branch":
+				case 'branch':
+					initialDepth += 1;
+
 					return (
 						<Folder
-							key={`folder-${basePath}${node.path}-${index}`}
+							key={`folder-${node.path}-${index}`}
 							name={node.name}
 							path={`${node.path}`}
 							depth={depth + 1}
-							baseColor={node.baseColor ?? { h: `0deg`, s: `7%`, l: `47%` }}
 							disabled={node.disabled ? node.disabled : false}
 							activePathname={activePathname}
 						>
-							{createTree(node.children, depth + 1, `${basePath}${node.path}`)}
+							{renderNodes(node.children, depth + 1)}
 						</Folder>
 					);
 			}
-		});
-	};
-	return (
-		<div className={styles.tree}>{createTree(branches, initialDepth, "")}</div>
-	);
-};
+		})
+	}
 
-export { FsTree };
+	return renderNodes(nodes, initialDepth)
+}
+
+export { NavTree };

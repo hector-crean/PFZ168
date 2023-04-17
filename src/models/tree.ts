@@ -5,7 +5,7 @@ interface Leaf {
 	path: string;
 	file: string;
 	name: string;
-	baseColor: Hsl;
+	heroImage?: string;
 	disabled: boolean;
 }
 
@@ -14,8 +14,8 @@ interface Branch {
 	name: string;
 	path: string;
 	file: string;
-	baseColor: Hsl;
 	disabled: boolean;
+	heroImage?: string;
 	children: Node[];
 }
 
@@ -23,4 +23,5 @@ type Node = Leaf | Branch;
 
 type Tree = Array<Node>;
 
-export type { Leaf, Branch, Tree, Node };
+export type { Branch, Leaf, Node, Tree };
+
