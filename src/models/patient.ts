@@ -94,20 +94,16 @@ type AggregatedPatientTimeline = {
 };
 
 export type {
-	CytogeneticRisk,
+	AggregatedPatientTimeline, CytogeneticRisk,
 	DiscontuationRationale,
 	ECOGPerformanceStatus,
 	ExposureStatus,
 	ObjectiveResponseRatePerBICR,
-	Patient,
-	PatientsResponse,
+	Patient, PatientEventsTimeline, PatientResponseTimeline, PatientsResponse,
 	RISSDiseaseStage,
 	Race,
 	RefractoryStatus,
-	Sex,
-	AggregatedPatientTimeline,
-	PatientResponseTimeline,
-	PatientEventsTimeline,
+	Sex
 };
 
 export {
@@ -121,5 +117,6 @@ export {
 	RISSDiseaseStageSchema,
 	RaceSchema,
 	RefractoryStatusSchema,
-	SexSchema,
+	SexSchema
 };
+

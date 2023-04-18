@@ -3,6 +3,7 @@ import { Slideshow } from "@/components/Slideshow";
 import { ResponsiveRaincloudPlot } from "@/components/charts-2D/RaincloudChart";
 import { ResponsiveAnnotatedChart } from "@/components/charts-2D/annotated/Example";
 import { ResponsiveSankeyChart } from "@/components/charts-2D/graphs/Sankey";
+import { ResponsiveTimeline } from "@/components/charts-2D/timeline/impl/Example";
 import { ResponsiveBarChart } from "@/components/charts-2D/xy-chart-v2/Example";
 //import styles from "./page.module.scss";
 
@@ -12,6 +13,19 @@ const Page = () => {
 		<>
 			<Slideshow
 				medias={[
+					{
+						media: (
+							<div style={{ width: "60vw", height: "60vh" }}>
+								<ResponsiveTimeline />
+							</div>
+
+						),
+						title: <p><strong>Gant Chart</strong></p>,
+						description: <div>
+							<p><em>Data not accurate (for illustrative purposes only)</em></p>
+
+						</div>,
+					},
 
 					{
 						media: (
