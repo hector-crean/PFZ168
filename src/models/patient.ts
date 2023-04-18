@@ -25,6 +25,7 @@ const ObjectiveResponseRatePerBICRSchema = z
 		"CompleteResponse",
 		"VeryGoodPartialResponse",
 		"PatialResponse",
+		"StableDisease",
 		"MinimalResponse",
 	])
 	.default("MinimalResponse");

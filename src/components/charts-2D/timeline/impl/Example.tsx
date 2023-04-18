@@ -5,7 +5,7 @@ import { GlyphCircle } from "@/lib/visx-glyph";
 import { GridColumns, GridRows } from "@/lib/visx-grid";
 import { Group } from "@/lib/visx-group";
 import { ParentSize } from "@/lib/visx-responsive";
-import { scaleLinear, scaleTime } from "@/lib/visx-scale";
+import { scaleLinear, scaleOrdinal, scaleTime } from "@/lib/visx-scale";
 import { Bar } from "@/lib/visx-shape";
 import {
 	Tooltip,
@@ -110,6 +110,29 @@ function TimelineImpl<
 		domain: [timelines.length, 0],
 	});
 
+	const bicrResponsColorScale = scaleOrdinal({
+		domain: [
+			"StringentCompleteResponse",
+			"CompleteResponse",
+			"VeryGoodPartialResponse",
+			"PatialResponse",
+			"StableDisease",
+			"MinimalResponse",
+		],
+		range: ["#1b9e77", "#d95f02", "#7570b3", "#e7298a"],
+	});
+
+	const eventColorScale = scaleOrdinal({
+		domain: [
+			"EotDueToAe",
+			"EotDueToOther",
+			"EotDueToPd",
+			"Death",
+			"ConfirmedPd",
+		],
+		range: ["#1b9e77", "#d95f02", "#7570b3", "#e7298a"],
+	});
+
 	const rescaleYAxis = (
 		scale: ScaleLinear<number, number, never>,
 		zoom: Mat3,
@@ -148,6 +171,8 @@ function TimelineImpl<
 			}
 			return mat3;
 		};
+
+	const reversedTimelines = useMemo(() => timelines.reverse(), [timelines]);
 
 	const {
 		tooltipOpen,
@@ -193,7 +218,9 @@ function TimelineImpl<
 								left={margin.left}
 								transform={zoom.toString()}
 							>
-								{timelines.map(
+								{reversedTimelines
+
+								.map(
 									(
 										{ events: timelineEvents, intervals: timelineIntervals },
 										timelineIdx,
@@ -213,8 +240,8 @@ function TimelineImpl<
 																xScale(new Date(timelineInterval.end)) -
 																xScale(new Date(timelineInterval.start))
 															}
-															height={Math.abs(yScale(1) - yScale(0)) / 5}
-															fill={"#EDADE3"}
+															height={Math.abs(yScale(1) - yScale(0)) / 2}
+															fill={eventColorScale(timelineInterval.kind)}
 															onPointerLeave={() => {
 																tooltipTimeout = window.setTimeout(() => {
 																	hideTooltip();

@@ -8,7 +8,7 @@ const Page = () => {
 	return (
 		<Blocks as='section'>
 			<Block as='h1'>Objective Response Rate per BICR Across Subgroups</Block>
-			<Block as='li'>
+			<Block as='ul'>
 				<li>High-risk cytogenetics</li>
 				<li>Extensive marrow involvement</li>
 				<li>{">"}5 lines of prior therapy</li>

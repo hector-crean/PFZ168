@@ -1,6 +1,10 @@
 export interface ResponseTimeline {
-    "Time from initial dose": number;
-    bicr: 
+   time: number;
+   durationOfResponsePercentage: number;
+   progressionFreeSurvivalPercentage: number;
+   overallSurvivalPercentage: number
+
+
   }
   
   const cityTemperature: CityTemperature[] = [
