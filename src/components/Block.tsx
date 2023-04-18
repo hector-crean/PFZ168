@@ -38,15 +38,15 @@ const Blocks = <T extends ElementType>({
 
 type BlockProp<T extends ElementType> = React.ComponentPropsWithoutRef<T> & {
 	as: T;
-	fullBleed: boolean;
 	children: ReactNode;
 	fullscreenHeight?: boolean;
+	fullBleed?: boolean;
 };
 
 const Block = <T extends ElementType>({
 	as,
 	children,
-	fullBleed,
+	fullBleed = false,
 	fullscreenHeight = false,
 	...rest
 }: BlockProp<T>) => {
